@@ -1,0 +1,2043 @@
+19.2971 	INFO 	Loaded monitor calibration from ['2024_12_28 08:11']
+19.4946 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x15fd2aa40>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x15fd2aaa0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x15fb31b70>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3024, 1964]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+19.4947 	EXP 	window1: backgroundImage = ''
+19.4947 	EXP 	window1: backgroundFit = 'none'
+19.5468 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+19.5468 	EXP 	window1: recordFrameIntervals = False
+19.6566 	EXP 	window1: recordFrameIntervals = True
+20.4889 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+21.0203 	INFO 	keyboard.Keyboard is using ptb backend.
+21.0204 	EXP 	N170: status = STARTED
+21.6815 	EXP 	Created text_instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_instructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+21.7561 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+21.7650 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+21.7693 	EXP 	Created text_end = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_end', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0243 	EXP 	text_instructions: autoDraw = True
+1.4191 	DATA 	joystick_0_button: 2
+1.4390 	EXP 	Imported N170stimulus_lists/sub-001_N170_stimlist.csv as conditions, 220 conditions, 3 params
+1.4413 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'name': 'images/faces/male/Justin_Timberlake.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+1.4712 	WARNING 	t of last frame was 52.31ms (=1/19)
+1.4712 	EXP 	text_instructions: autoDraw = False
+1.4712 	EXP 	image: image = 'images/faces/male/Justin_Timberlake.jpg'
+1.4712 	EXP 	text: height = 0.05
+1.4712 	EXP 	text: height = 0.05
+1.4712 	EXP 	text: height = 0.05
+1.4712 	EXP 	text: text = '+'
+1.4712 	EXP 	image: autoDraw = True
+1.7179 	EXP 	text: autoDraw = True
+1.7682 	EXP 	image: autoDraw = False
+2.9143 	EXP 	text: autoDraw = False
+2.9581 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'name': 'images/faces/male/Tom_Hanks.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.0012 	WARNING 	t of last frame was 43.49ms (=1/22)
+3.0012 	EXP 	image: autoDraw = False
+3.0012 	EXP 	text: autoDraw = False
+3.0012 	EXP 	image: image = 'images/faces/male/Tom_Hanks.jpg'
+3.0012 	EXP 	text: text = '+'
+3.0012 	EXP 	image: autoDraw = True
+3.2631 	EXP 	text: autoDraw = True
+3.2942 	EXP 	image: autoDraw = False
+4.0945 	EXP 	text: autoDraw = False
+4.1247 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'name': 'images/faces/female/Christina_Aguilera.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+4.2133 	WARNING 	t of last frame was 89.02ms (=1/11)
+4.2133 	EXP 	image: autoDraw = False
+4.2133 	EXP 	text: autoDraw = False
+4.2133 	EXP 	image: image = 'images/faces/female/Christina_Aguilera.jpg'
+4.2133 	EXP 	text: text = '+'
+4.2133 	EXP 	image: autoDraw = True
+4.4179 	EXP 	text: autoDraw = True
+4.5153 	EXP 	image: autoDraw = False
+5.5936 	EXP 	text: autoDraw = False
+5.6831 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'name': 'images/objects/fullbucket.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+5.7066 	WARNING 	t of last frame was 23.90ms (=1/41)
+5.7066 	EXP 	image: autoDraw = False
+5.7066 	EXP 	text: autoDraw = False
+5.7066 	EXP 	image: image = 'images/objects/fullbucket.jpg'
+5.7066 	EXP 	text: text = '+'
+5.7066 	EXP 	image: autoDraw = True
+5.9842 	EXP 	text: autoDraw = True
+6.0058 	EXP 	image: autoDraw = False
+6.9847 	EXP 	text: autoDraw = False
+6.9961 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'name': 'images/objects/APARKBENC.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+7.0145 	EXP 	image: autoDraw = False
+7.0145 	EXP 	text: autoDraw = False
+7.0145 	EXP 	image: image = 'images/objects/APARKBENC.jpg'
+7.0145 	EXP 	text: text = '+'
+7.0145 	EXP 	image: autoDraw = True
+7.2955 	EXP 	text: autoDraw = True
+7.3192 	EXP 	image: autoDraw = False
+8.3430 	EXP 	text: autoDraw = False
+8.3433 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'name': 'images/objects/Acarnivalgame.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+8.3610 	EXP 	image: autoDraw = False
+8.3610 	EXP 	text: autoDraw = False
+8.3610 	EXP 	image: image = 'images/objects/Acarnivalgame.jpg'
+8.3610 	EXP 	text: text = '+'
+8.3610 	EXP 	image: autoDraw = True
+8.6413 	EXP 	text: autoDraw = True
+8.6624 	EXP 	image: autoDraw = False
+9.8276 	EXP 	text: autoDraw = False
+9.8387 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'name': 'images/faces/female/Carrie_Underwood.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+9.8689 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+9.8689 	EXP 	image: autoDraw = False
+9.8689 	EXP 	text: autoDraw = False
+9.8689 	EXP 	image: image = 'images/faces/female/Carrie_Underwood.jpg'
+9.8689 	EXP 	text: text = '+'
+9.8689 	EXP 	image: autoDraw = True
+10.1357 	EXP 	text: autoDraw = True
+10.1691 	EXP 	image: autoDraw = False
+11.2896 	EXP 	text: autoDraw = False
+11.3138 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'name': 'images/faces/male/Jamie _Foxx.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+11.3446 	EXP 	image: autoDraw = False
+11.3446 	EXP 	text: autoDraw = False
+11.3446 	EXP 	image: image = 'images/faces/male/Jamie _Foxx.jpg'
+11.3446 	EXP 	text: text = '+'
+11.3446 	EXP 	image: autoDraw = True
+11.6109 	EXP 	text: autoDraw = True
+11.6487 	EXP 	image: autoDraw = False
+12.3918 	EXP 	text: autoDraw = False
+12.4139 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'name': 'images/faces/female/Adele.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+12.4638 	EXP 	image: autoDraw = False
+12.4638 	EXP 	text: autoDraw = False
+12.4638 	EXP 	image: image = 'images/faces/female/Adele.jpg'
+12.4638 	EXP 	text: text = '+'
+12.4638 	EXP 	image: autoDraw = True
+12.7125 	EXP 	text: autoDraw = True
+12.7597 	EXP 	image: autoDraw = False
+13.9027 	EXP 	text: autoDraw = False
+13.9361 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'name': 'images/faces/female/Alice_Walker.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+13.9691 	EXP 	image: autoDraw = False
+13.9691 	EXP 	text: autoDraw = False
+13.9691 	EXP 	image: image = 'images/faces/female/Alice_Walker.jpg'
+13.9691 	EXP 	text: text = '+'
+13.9691 	EXP 	image: autoDraw = True
+14.2412 	EXP 	text: autoDraw = True
+14.2647 	EXP 	image: autoDraw = False
+15.1000 	EXP 	text: autoDraw = False
+15.1123 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'name': 'images/objects/AHEELCUPS.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+15.1317 	EXP 	image: autoDraw = False
+15.1317 	EXP 	text: autoDraw = False
+15.1317 	EXP 	image: image = 'images/objects/AHEELCUPS.jpg'
+15.1317 	EXP 	text: text = '+'
+15.1317 	EXP 	image: autoDraw = True
+15.4095 	EXP 	text: autoDraw = True
+15.4301 	EXP 	image: autoDraw = False
+16.3303 	EXP 	text: autoDraw = False
+16.3417 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'name': 'images/objects/Atoyslide.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+16.3593 	EXP 	image: autoDraw = False
+16.3593 	EXP 	text: autoDraw = False
+16.3593 	EXP 	image: image = 'images/objects/Atoyslide.jpg'
+16.3593 	EXP 	text: text = '+'
+16.3593 	EXP 	image: autoDraw = True
+16.6432 	EXP 	text: autoDraw = True
+16.6552 	EXP 	image: autoDraw = False
+17.6587 	EXP 	text: autoDraw = False
+17.6590 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'name': 'images/faces/female/Kelly_Clarkson.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+17.6876 	EXP 	image: autoDraw = False
+17.6876 	EXP 	text: autoDraw = False
+17.6876 	EXP 	image: image = 'images/faces/female/Kelly_Clarkson.jpg'
+17.6876 	EXP 	text: text = '+'
+17.6876 	EXP 	image: autoDraw = True
+17.9555 	EXP 	text: autoDraw = True
+17.9914 	EXP 	image: autoDraw = False
+18.8439 	EXP 	text: autoDraw = False
+18.8692 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'name': 'images/objects/26370116.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+18.8880 	EXP 	image: autoDraw = False
+18.8880 	EXP 	text: autoDraw = False
+18.8880 	EXP 	image: image = 'images/objects/26370116.thl.jpg'
+18.8880 	EXP 	text: text = '+'
+18.8880 	EXP 	image: autoDraw = True
+19.1654 	EXP 	text: autoDraw = True
+19.1899 	EXP 	image: autoDraw = False
+19.9952 	EXP 	text: autoDraw = False
+20.0071 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'name': 'images/objects/ATIMECLO3.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+20.0245 	EXP 	image: autoDraw = False
+20.0245 	EXP 	text: autoDraw = False
+20.0245 	EXP 	image: image = 'images/objects/ATIMECLO3.jpg'
+20.0245 	EXP 	text: text = '+'
+20.0245 	EXP 	image: autoDraw = True
+20.3111 	EXP 	text: autoDraw = True
+20.3227 	EXP 	image: autoDraw = False
+21.5146 	EXP 	text: autoDraw = False
+21.5260 	EXP 	New trial (rep=0, index=15): <Trial 15 (15 in rep 0) data={'name': 'images/objects/ASCREW24.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 0}>
+21.5427 	EXP 	image: autoDraw = False
+21.5427 	EXP 	text: autoDraw = False
+21.5427 	EXP 	image: image = 'images/objects/ASCREW24.jpg'
+21.5427 	EXP 	text: text = '+'
+21.5427 	EXP 	image: autoDraw = True
+21.8263 	EXP 	text: autoDraw = True
+21.8381 	EXP 	image: autoDraw = False
+22.6933 	EXP 	text: autoDraw = False
+22.7041 	EXP 	New trial (rep=0, index=16): <Trial 16 (16 in rep 0) data={'name': 'images/objects/23051010.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 0}>
+22.7197 	EXP 	image: autoDraw = False
+22.7197 	EXP 	text: autoDraw = False
+22.7197 	EXP 	image: image = 'images/objects/23051010.thl.jpg'
+22.7197 	EXP 	text: text = '+'
+22.7197 	EXP 	image: autoDraw = True
+23.0064 	EXP 	text: autoDraw = True
+23.0186 	EXP 	image: autoDraw = False
+23.8151 	EXP 	text: autoDraw = False
+23.8154 	EXP 	New trial (rep=0, index=17): <Trial 17 (17 in rep 0) data={'name': 'images/objects/driedprune.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 0}>
+23.8319 	EXP 	image: autoDraw = False
+23.8319 	EXP 	text: autoDraw = False
+23.8319 	EXP 	image: image = 'images/objects/driedprune.jpg'
+23.8319 	EXP 	text: text = '+'
+23.8319 	EXP 	image: autoDraw = True
+24.1148 	EXP 	text: autoDraw = True
+24.1242 	EXP 	image: autoDraw = False
+25.0282 	EXP 	text: autoDraw = False
+25.0405 	EXP 	New trial (rep=0, index=18): <Trial 18 (18 in rep 0) data={'name': 'images/faces/male/Bryan_Moynihan.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 0}>
+25.0825 	EXP 	image: autoDraw = False
+25.0825 	EXP 	text: autoDraw = False
+25.0825 	EXP 	image: image = 'images/faces/male/Bryan_Moynihan.jpg'
+25.0825 	EXP 	text: text = '+'
+25.0825 	EXP 	image: autoDraw = True
+25.3438 	EXP 	text: autoDraw = True
+25.3794 	EXP 	image: autoDraw = False
+26.4639 	EXP 	text: autoDraw = False
+26.4987 	EXP 	New trial (rep=0, index=19): <Trial 19 (19 in rep 0) data={'name': 'images/objects/22849344.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 0}>
+26.5179 	EXP 	image: autoDraw = False
+26.5179 	EXP 	text: autoDraw = False
+26.5179 	EXP 	image: image = 'images/objects/22849344.thl.jpg'
+26.5179 	EXP 	text: text = '+'
+26.5179 	EXP 	image: autoDraw = True
+26.7996 	EXP 	text: autoDraw = True
+26.8238 	EXP 	image: autoDraw = False
+27.5550 	EXP 	text: autoDraw = False
+27.5651 	EXP 	New trial (rep=0, index=20): <Trial 20 (20 in rep 0) data={'name': 'images/objects/swingset.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 0}>
+27.5805 	EXP 	image: autoDraw = False
+27.5805 	EXP 	text: autoDraw = False
+27.5805 	EXP 	image: image = 'images/objects/swingset.jpg'
+27.5805 	EXP 	text: text = '+'
+27.5805 	EXP 	image: autoDraw = True
+27.8623 	EXP 	text: autoDraw = True
+27.8871 	EXP 	image: autoDraw = False
+29.0915 	EXP 	text: autoDraw = False
+29.0918 	EXP 	New trial (rep=0, index=21): <Trial 21 (21 in rep 0) data={'name': 'images/objects/Achildsplaype.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 0}>
+29.1088 	EXP 	image: autoDraw = False
+29.1088 	EXP 	text: autoDraw = False
+29.1088 	EXP 	image: image = 'images/objects/Achildsplaype.jpg'
+29.1088 	EXP 	text: text = '+'
+29.1088 	EXP 	image: autoDraw = True
+29.3956 	EXP 	text: autoDraw = True
+29.4073 	EXP 	image: autoDraw = False
+30.6445 	EXP 	text: autoDraw = False
+30.6449 	EXP 	New trial (rep=0, index=22): <Trial 22 (22 in rep 0) data={'name': 'images/faces/male/Paulo_Coelho.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 0}>
+30.7168 	EXP 	image: autoDraw = False
+30.7168 	EXP 	text: autoDraw = False
+30.7168 	EXP 	image: image = 'images/faces/male/Paulo_Coelho.jpg'
+30.7168 	EXP 	text: text = '+'
+30.7168 	EXP 	image: autoDraw = True
+30.9443 	EXP 	text: autoDraw = True
+31.0120 	EXP 	image: autoDraw = False
+31.7335 	EXP 	text: autoDraw = False
+31.7919 	EXP 	New trial (rep=0, index=23): <Trial 23 (23 in rep 0) data={'name': 'images/objects/26372390.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 0}>
+31.8151 	EXP 	image: autoDraw = False
+31.8151 	EXP 	text: autoDraw = False
+31.8151 	EXP 	image: image = 'images/objects/26372390.thl.jpg'
+31.8151 	EXP 	text: text = '+'
+31.8151 	EXP 	image: autoDraw = True
+32.0989 	EXP 	text: autoDraw = True
+32.1082 	EXP 	image: autoDraw = False
+32.9536 	EXP 	text: autoDraw = False
+32.9659 	EXP 	New trial (rep=0, index=24): <Trial 24 (24 in rep 0) data={'name': 'images/faces/female/Bonnie_Wright.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 0}>
+32.9948 	EXP 	image: autoDraw = False
+32.9948 	EXP 	text: autoDraw = False
+32.9948 	EXP 	image: image = 'images/faces/female/Bonnie_Wright.jpg'
+32.9948 	EXP 	text: text = '+'
+32.9948 	EXP 	image: autoDraw = True
+33.2639 	EXP 	text: autoDraw = True
+33.3020 	EXP 	image: autoDraw = False
+34.3517 	EXP 	text: autoDraw = False
+34.3636 	EXP 	New trial (rep=0, index=25): <Trial 25 (25 in rep 0) data={'name': 'images/faces/female/Mia_Hamm.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 0}>
+34.4090 	EXP 	image: autoDraw = False
+34.4090 	EXP 	text: autoDraw = False
+34.4090 	EXP 	image: image = 'images/faces/female/Mia_Hamm.jpg'
+34.4090 	EXP 	text: text = '+'
+34.4090 	EXP 	image: autoDraw = True
+34.6586 	EXP 	text: autoDraw = True
+34.7088 	EXP 	image: autoDraw = False
+35.5073 	EXP 	text: autoDraw = False
+35.5500 	EXP 	New trial (rep=0, index=26): <Trial 26 (26 in rep 0) data={'name': 'images/faces/male/PSY.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 0}>
+35.5809 	EXP 	image: autoDraw = False
+35.5809 	EXP 	text: autoDraw = False
+35.5809 	EXP 	image: image = 'images/faces/male/PSY.jpg'
+35.5809 	EXP 	text: text = '+'
+35.5809 	EXP 	image: autoDraw = True
+35.8469 	EXP 	text: autoDraw = True
+35.8833 	EXP 	image: autoDraw = False
+36.6202 	EXP 	text: autoDraw = False
+36.6415 	EXP 	New trial (rep=0, index=27): <Trial 27 (27 in rep 0) data={'name': 'images/objects/8027086.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 0}>
+36.6583 	EXP 	image: autoDraw = False
+36.6583 	EXP 	text: autoDraw = False
+36.6583 	EXP 	image: image = 'images/objects/8027086.thl.jpg'
+36.6583 	EXP 	text: text = '+'
+36.6583 	EXP 	image: autoDraw = True
+36.9405 	EXP 	text: autoDraw = True
+36.9650 	EXP 	image: autoDraw = False
+38.0804 	EXP 	text: autoDraw = False
+38.0808 	EXP 	New trial (rep=0, index=28): <Trial 28 (28 in rep 0) data={'name': 'images/objects/8256348.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 0}>
+38.0979 	EXP 	image: autoDraw = False
+38.0979 	EXP 	text: autoDraw = False
+38.0979 	EXP 	image: image = 'images/objects/8256348.thl.jpg'
+38.0979 	EXP 	text: text = '+'
+38.0979 	EXP 	image: autoDraw = True
+38.3768 	EXP 	text: autoDraw = True
+38.3990 	EXP 	image: autoDraw = False
+39.3812 	EXP 	text: autoDraw = False
+39.3913 	EXP 	New trial (rep=0, index=29): <Trial 29 (29 in rep 0) data={'name': 'images/objects/Atennisball2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 0}>
+39.4077 	EXP 	image: autoDraw = False
+39.4077 	EXP 	text: autoDraw = False
+39.4077 	EXP 	image: image = 'images/objects/Atennisball2.jpg'
+39.4077 	EXP 	text: text = '+'
+39.4077 	EXP 	image: autoDraw = True
+39.6931 	EXP 	text: autoDraw = True
+39.7049 	EXP 	image: autoDraw = False
+40.6391 	EXP 	text: autoDraw = False
+40.6510 	EXP 	New trial (rep=0, index=30): <Trial 30 (30 in rep 0) data={'name': 'images/objects/mixer.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 0}>
+40.6674 	EXP 	image: autoDraw = False
+40.6674 	EXP 	text: autoDraw = False
+40.6674 	EXP 	image: image = 'images/objects/mixer.jpg'
+40.6674 	EXP 	text: text = '+'
+40.6674 	EXP 	image: autoDraw = True
+40.9563 	EXP 	text: autoDraw = True
+40.9692 	EXP 	image: autoDraw = False
+41.7543 	EXP 	text: autoDraw = False
+41.7550 	EXP 	New trial (rep=0, index=31): <Trial 31 (31 in rep 0) data={'name': 'images/faces/male/Prince_Harry.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 0}>
+41.8579 	EXP 	image: autoDraw = False
+41.8579 	EXP 	text: autoDraw = False
+41.8579 	EXP 	image: image = 'images/faces/male/Prince_Harry.jpg'
+41.8579 	EXP 	text: text = '+'
+41.8579 	EXP 	image: autoDraw = True
+42.0532 	EXP 	text: autoDraw = True
+42.1562 	EXP 	image: autoDraw = False
+42.8781 	EXP 	text: autoDraw = False
+42.9687 	EXP 	New trial (rep=0, index=32): <Trial 32 (32 in rep 0) data={'name': 'images/objects/Abasket108.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 0}>
+42.9956 	EXP 	image: autoDraw = False
+42.9956 	EXP 	text: autoDraw = False
+42.9956 	EXP 	image: image = 'images/objects/Abasket108.jpg'
+42.9956 	EXP 	text: text = '+'
+42.9956 	EXP 	image: autoDraw = True
+43.2634 	EXP 	text: autoDraw = True
+43.2998 	EXP 	image: autoDraw = False
+44.5089 	EXP 	text: autoDraw = False
+44.5334 	EXP 	New trial (rep=0, index=33): <Trial 33 (33 in rep 0) data={'name': 'images/objects/26373735.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 0}>
+44.5491 	EXP 	image: autoDraw = False
+44.5491 	EXP 	text: autoDraw = False
+44.5491 	EXP 	image: image = 'images/objects/26373735.thl.jpg'
+44.5491 	EXP 	text: text = '+'
+44.5491 	EXP 	image: autoDraw = True
+44.8304 	EXP 	text: autoDraw = True
+44.8534 	EXP 	image: autoDraw = False
+45.5985 	EXP 	text: autoDraw = False
+45.6113 	EXP 	New trial (rep=0, index=34): <Trial 34 (34 in rep 0) data={'name': 'images/objects/23025535.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 0}>
+45.6271 	EXP 	image: autoDraw = False
+45.6271 	EXP 	text: autoDraw = False
+45.6271 	EXP 	image: image = 'images/objects/23025535.thl.jpg'
+45.6271 	EXP 	text: text = '+'
+45.6271 	EXP 	image: autoDraw = True
+45.9092 	EXP 	text: autoDraw = True
+45.9342 	EXP 	image: autoDraw = False
+46.7694 	EXP 	text: autoDraw = False
+46.7808 	EXP 	New trial (rep=0, index=35): <Trial 35 (35 in rep 0) data={'name': 'images/objects/A_flower.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 0}>
+46.7963 	EXP 	image: autoDraw = False
+46.7963 	EXP 	text: autoDraw = False
+46.7963 	EXP 	image: image = 'images/objects/A_flower.jpg'
+46.7963 	EXP 	text: text = '+'
+46.7963 	EXP 	image: autoDraw = True
+47.0819 	EXP 	text: autoDraw = True
+47.0927 	EXP 	image: autoDraw = False
+48.2385 	EXP 	text: autoDraw = False
+48.2392 	EXP 	New trial (rep=0, index=36): <Trial 36 (36 in rep 0) data={'name': 'images/faces/female/Katie_Ledecky.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 0}>
+48.2672 	EXP 	image: autoDraw = False
+48.2672 	EXP 	text: autoDraw = False
+48.2672 	EXP 	image: image = 'images/faces/female/Katie_Ledecky.jpg'
+48.2672 	EXP 	text: text = '+'
+48.2672 	EXP 	image: autoDraw = True
+48.5322 	EXP 	text: autoDraw = True
+48.5612 	EXP 	image: autoDraw = False
+49.5153 	EXP 	text: autoDraw = False
+49.5377 	EXP 	New trial (rep=0, index=37): <Trial 37 (37 in rep 0) data={'name': 'images/faces/female/Kate_Middleton.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 0}>
+49.6189 	EXP 	image: autoDraw = False
+49.6189 	EXP 	text: autoDraw = False
+49.6189 	EXP 	image: image = 'images/faces/female/Kate_Middleton.jpg'
+49.6189 	EXP 	text: text = '+'
+49.6189 	EXP 	image: autoDraw = True
+49.8339 	EXP 	text: autoDraw = True
+49.9183 	EXP 	image: autoDraw = False
+50.3960 	DATA 	joystick_0_button: 2
+50.9870 	EXP 	text: autoDraw = False
+51.0609 	EXP 	New trial (rep=0, index=38): <Trial 38 (38 in rep 0) data={'name': 'images/faces/female/Katie_Ledecky.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 0}>
+51.0972 	EXP 	image: autoDraw = False
+51.0972 	EXP 	text: autoDraw = False
+51.0972 	EXP 	image: image = 'images/faces/female/Katie_Ledecky.jpg'
+51.0972 	EXP 	text: text = '+'
+51.0972 	EXP 	image: autoDraw = True
+51.3630 	EXP 	text: autoDraw = True
+51.3991 	EXP 	image: autoDraw = False
+51.6762 	DATA 	joystick_0_button: 2
+52.4465 	EXP 	text: autoDraw = False
+52.4739 	EXP 	New trial (rep=0, index=39): <Trial 39 (39 in rep 0) data={'name': 'images/faces/male/Nicholas_Sparks.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 39, 'thisTrialN': 39, 'thisRepN': 0}>
+52.4956 	EXP 	image: autoDraw = False
+52.4956 	EXP 	text: autoDraw = False
+52.4956 	EXP 	image: image = 'images/faces/male/Nicholas_Sparks.jpg'
+52.4956 	EXP 	text: text = '+'
+52.4956 	EXP 	image: autoDraw = True
+52.7710 	EXP 	text: autoDraw = True
+52.7944 	EXP 	image: autoDraw = False
+53.8948 	EXP 	text: autoDraw = False
+53.9062 	EXP 	New trial (rep=0, index=40): <Trial 40 (40 in rep 0) data={'name': 'images/faces/male/John_Goodenough.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 40, 'thisTrialN': 40, 'thisRepN': 0}>
+53.9345 	EXP 	image: autoDraw = False
+53.9345 	EXP 	text: autoDraw = False
+53.9345 	EXP 	image: image = 'images/faces/male/John_Goodenough.jpg'
+53.9345 	EXP 	text: text = '+'
+53.9345 	EXP 	image: autoDraw = True
+54.2034 	EXP 	text: autoDraw = True
+54.2338 	EXP 	image: autoDraw = False
+55.1132 	EXP 	text: autoDraw = False
+55.1253 	EXP 	New trial (rep=0, index=41): <Trial 41 (41 in rep 0) data={'name': 'images/objects/22826832.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 41, 'thisTrialN': 41, 'thisRepN': 0}>
+55.1440 	EXP 	image: autoDraw = False
+55.1440 	EXP 	text: autoDraw = False
+55.1440 	EXP 	image: image = 'images/objects/22826832.thl.jpg'
+55.1440 	EXP 	text: text = '+'
+55.1440 	EXP 	image: autoDraw = True
+55.4222 	EXP 	text: autoDraw = True
+55.4469 	EXP 	image: autoDraw = False
+56.1809 	EXP 	text: autoDraw = False
+56.1924 	EXP 	New trial (rep=0, index=42): <Trial 42 (42 in rep 0) data={'name': 'images/objects/8026084.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 42, 'thisTrialN': 42, 'thisRepN': 0}>
+56.2073 	EXP 	image: autoDraw = False
+56.2073 	EXP 	text: autoDraw = False
+56.2073 	EXP 	image: image = 'images/objects/8026084.thl.jpg'
+56.2073 	EXP 	text: text = '+'
+56.2073 	EXP 	image: autoDraw = True
+56.4899 	EXP 	text: autoDraw = True
+56.5022 	EXP 	image: autoDraw = False
+57.3537 	EXP 	text: autoDraw = False
+57.3540 	EXP 	New trial (rep=0, index=43): <Trial 43 (43 in rep 0) data={'name': 'images/objects/hairbarette.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 43, 'thisTrialN': 43, 'thisRepN': 0}>
+57.3703 	EXP 	image: autoDraw = False
+57.3703 	EXP 	text: autoDraw = False
+57.3703 	EXP 	image: image = 'images/objects/hairbarette.jpg'
+57.3703 	EXP 	text: text = '+'
+57.3703 	EXP 	image: autoDraw = True
+57.6496 	EXP 	text: autoDraw = True
+57.6744 	EXP 	image: autoDraw = False
+58.4511 	EXP 	text: autoDraw = False
+58.4624 	EXP 	New trial (rep=0, index=44): <Trial 44 (44 in rep 0) data={'name': 'images/objects/Atoyturtle.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 44, 'thisTrialN': 44, 'thisRepN': 0}>
+58.4798 	EXP 	image: autoDraw = False
+58.4798 	EXP 	text: autoDraw = False
+58.4798 	EXP 	image: image = 'images/objects/Atoyturtle.jpg'
+58.4798 	EXP 	text: text = '+'
+58.4798 	EXP 	image: autoDraw = True
+58.7631 	EXP 	text: autoDraw = True
+58.7740 	EXP 	image: autoDraw = False
+59.5939 	EXP 	text: autoDraw = False
+59.5943 	EXP 	New trial (rep=0, index=45): <Trial 45 (45 in rep 0) data={'name': 'images/faces/male/Rick_Riordan.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 45, 'thisTrialN': 45, 'thisRepN': 0}>
+59.6166 	EXP 	image: autoDraw = False
+59.6166 	EXP 	text: autoDraw = False
+59.6166 	EXP 	image: image = 'images/faces/male/Rick_Riordan.jpg'
+59.6166 	EXP 	text: text = '+'
+59.6166 	EXP 	image: autoDraw = True
+59.8892 	EXP 	text: autoDraw = True
+59.9116 	EXP 	image: autoDraw = False
+60.6509 	EXP 	text: autoDraw = False
+60.6627 	EXP 	New trial (rep=0, index=46): <Trial 46 (46 in rep 0) data={'name': 'images/objects/bagelslicer.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 46, 'thisTrialN': 46, 'thisRepN': 0}>
+60.6828 	EXP 	image: autoDraw = False
+60.6828 	EXP 	text: autoDraw = False
+60.6828 	EXP 	image: image = 'images/objects/bagelslicer.jpg'
+60.6828 	EXP 	text: text = '+'
+60.6828 	EXP 	image: autoDraw = True
+60.9607 	EXP 	text: autoDraw = True
+60.9857 	EXP 	image: autoDraw = False
+61.8818 	EXP 	text: autoDraw = False
+61.8934 	EXP 	New trial (rep=0, index=47): <Trial 47 (47 in rep 0) data={'name': 'images/faces/female/Paula_Hawkins.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 47, 'thisTrialN': 47, 'thisRepN': 0}>
+61.9293 	EXP 	image: autoDraw = False
+61.9293 	EXP 	text: autoDraw = False
+61.9293 	EXP 	image: image = 'images/faces/female/Paula_Hawkins.jpg'
+61.9293 	EXP 	text: text = '+'
+61.9293 	EXP 	image: autoDraw = True
+62.1941 	EXP 	text: autoDraw = True
+62.2309 	EXP 	image: autoDraw = False
+63.3333 	EXP 	text: autoDraw = False
+63.3553 	EXP 	New trial (rep=0, index=48): <Trial 48 (48 in rep 0) data={'name': 'images/faces/female/Laverne_Cox.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 48, 'thisTrialN': 48, 'thisRepN': 0}>
+63.4167 	EXP 	image: autoDraw = False
+63.4167 	EXP 	text: autoDraw = False
+63.4167 	EXP 	image: image = 'images/faces/female/Laverne_Cox.jpg'
+63.4167 	EXP 	text: text = '+'
+63.4167 	EXP 	image: autoDraw = True
+63.6488 	EXP 	text: autoDraw = True
+63.7140 	EXP 	image: autoDraw = False
+64.7672 	EXP 	text: autoDraw = False
+64.8230 	EXP 	New trial (rep=0, index=49): <Trial 49 (49 in rep 0) data={'name': 'images/faces/male/Justin_Trudeau.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 49, 'thisTrialN': 49, 'thisRepN': 0}>
+64.8538 	EXP 	image: autoDraw = False
+64.8538 	EXP 	text: autoDraw = False
+64.8538 	EXP 	image: image = 'images/faces/male/Justin_Trudeau.jpg'
+64.8538 	EXP 	text: text = '+'
+64.8538 	EXP 	image: autoDraw = True
+65.1218 	EXP 	text: autoDraw = True
+65.1574 	EXP 	image: autoDraw = False
+66.1159 	EXP 	text: autoDraw = False
+66.1276 	EXP 	New trial (rep=0, index=50): <Trial 50 (50 in rep 0) data={'name': 'images/objects/ferrywheeltoy.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 50, 'thisTrialN': 50, 'thisRepN': 0}>
+66.1467 	EXP 	image: autoDraw = False
+66.1467 	EXP 	text: autoDraw = False
+66.1467 	EXP 	image: image = 'images/objects/ferrywheeltoy.jpg'
+66.1467 	EXP 	text: text = '+'
+66.1467 	EXP 	image: autoDraw = True
+66.4307 	EXP 	text: autoDraw = True
+66.4426 	EXP 	image: autoDraw = False
+67.4584 	EXP 	text: autoDraw = False
+67.4690 	EXP 	New trial (rep=0, index=51): <Trial 51 (51 in rep 0) data={'name': 'images/objects/pinecone02.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 51, 'thisTrialN': 51, 'thisRepN': 0}>
+67.4854 	EXP 	image: autoDraw = False
+67.4854 	EXP 	text: autoDraw = False
+67.4854 	EXP 	image: image = 'images/objects/pinecone02.jpg'
+67.4854 	EXP 	text: text = '+'
+67.4854 	EXP 	image: autoDraw = True
+67.7700 	EXP 	text: autoDraw = True
+67.7826 	EXP 	image: autoDraw = False
+68.5215 	EXP 	text: autoDraw = False
+68.5327 	EXP 	New trial (rep=0, index=52): <Trial 52 (52 in rep 0) data={'name': 'images/objects/ACOWBOYH3.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 52, 'thisTrialN': 52, 'thisRepN': 0}>
+68.5491 	EXP 	image: autoDraw = False
+68.5491 	EXP 	text: autoDraw = False
+68.5491 	EXP 	image: image = 'images/objects/ACOWBOYH3.jpg'
+68.5491 	EXP 	text: text = '+'
+68.5491 	EXP 	image: autoDraw = True
+68.8364 	EXP 	text: autoDraw = True
+68.8481 	EXP 	image: autoDraw = False
+69.8783 	EXP 	text: autoDraw = False
+69.8791 	EXP 	New trial (rep=0, index=53): <Trial 53 (53 in rep 0) data={'name': 'images/faces/female/Kelly_Clarkson.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 53, 'thisTrialN': 53, 'thisRepN': 0}>
+69.9078 	EXP 	image: autoDraw = False
+69.9078 	EXP 	text: autoDraw = False
+69.9078 	EXP 	image: image = 'images/faces/female/Kelly_Clarkson.jpg'
+69.9078 	EXP 	text: text = '+'
+69.9078 	EXP 	image: autoDraw = True
+70.1828 	EXP 	text: autoDraw = True
+70.2057 	EXP 	image: autoDraw = False
+70.6063 	DATA 	joystick_0_button: 2
+71.1518 	EXP 	text: autoDraw = False
+71.1756 	EXP 	New trial (rep=0, index=54): <Trial 54 (54 in rep 0) data={'name': 'images/faces/female/Rachel_Maddow.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 54, 'thisTrialN': 54, 'thisRepN': 0}>
+71.2048 	EXP 	image: autoDraw = False
+71.2048 	EXP 	text: autoDraw = False
+71.2048 	EXP 	image: image = 'images/faces/female/Rachel_Maddow.jpg'
+71.2048 	EXP 	text: text = '+'
+71.2048 	EXP 	image: autoDraw = True
+71.4806 	EXP 	text: autoDraw = True
+71.5041 	EXP 	image: autoDraw = False
+72.4883 	EXP 	text: autoDraw = False
+72.4999 	EXP 	New trial (rep=0, index=55): <Trial 55 (55 in rep 0) data={'name': 'images/faces/male/Dak_Prescott.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 55, 'thisTrialN': 55, 'thisRepN': 0}>
+72.5358 	EXP 	image: autoDraw = False
+72.5358 	EXP 	text: autoDraw = False
+72.5358 	EXP 	image: image = 'images/faces/male/Dak_Prescott.jpg'
+72.5358 	EXP 	text: text = '+'
+72.5358 	EXP 	image: autoDraw = True
+72.7962 	EXP 	text: autoDraw = True
+72.8322 	EXP 	image: autoDraw = False
+73.8192 	EXP 	text: autoDraw = False
+73.8429 	EXP 	New trial (rep=0, index=56): <Trial 56 (56 in rep 0) data={'name': 'images/objects/26439913.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 56, 'thisTrialN': 56, 'thisRepN': 0}>
+73.8624 	EXP 	image: autoDraw = False
+73.8624 	EXP 	text: autoDraw = False
+73.8624 	EXP 	image: image = 'images/objects/26439913.thl.jpg'
+73.8624 	EXP 	text: text = '+'
+73.8624 	EXP 	image: autoDraw = True
+74.1467 	EXP 	text: autoDraw = True
+74.1583 	EXP 	image: autoDraw = False
+74.9586 	EXP 	text: autoDraw = False
+74.9590 	EXP 	New trial (rep=0, index=57): <Trial 57 (57 in rep 0) data={'name': 'images/objects/26423905.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 57, 'thisTrialN': 57, 'thisRepN': 0}>
+74.9755 	EXP 	image: autoDraw = False
+74.9755 	EXP 	text: autoDraw = False
+74.9755 	EXP 	image: image = 'images/objects/26423905.thl.jpg'
+74.9755 	EXP 	text: text = '+'
+74.9755 	EXP 	image: autoDraw = True
+75.2585 	EXP 	text: autoDraw = True
+75.2708 	EXP 	image: autoDraw = False
+76.1941 	EXP 	text: autoDraw = False
+76.1947 	EXP 	New trial (rep=0, index=58): <Trial 58 (58 in rep 0) data={'name': 'images/faces/female/Veronica_Roth.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 58, 'thisTrialN': 58, 'thisRepN': 0}>
+76.2110 	EXP 	image: autoDraw = False
+76.2110 	EXP 	text: autoDraw = False
+76.2110 	EXP 	image: image = 'images/faces/female/Veronica_Roth.jpg'
+76.2110 	EXP 	text: text = '+'
+76.2110 	EXP 	image: autoDraw = True
+76.4911 	EXP 	text: autoDraw = True
+76.5125 	EXP 	image: autoDraw = False
+77.3983 	EXP 	text: autoDraw = False
+77.4096 	EXP 	New trial (rep=0, index=59): <Trial 59 (59 in rep 0) data={'name': 'images/faces/female/Oprah_Winfrey.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 59, 'thisTrialN': 59, 'thisRepN': 0}>
+77.4474 	EXP 	image: autoDraw = False
+77.4474 	EXP 	text: autoDraw = False
+77.4474 	EXP 	image: image = 'images/faces/female/Oprah_Winfrey.jpg'
+77.4474 	EXP 	text: text = '+'
+77.4474 	EXP 	image: autoDraw = True
+77.7038 	EXP 	text: autoDraw = True
+77.7526 	EXP 	image: autoDraw = False
+78.5146 	EXP 	text: autoDraw = False
+78.5501 	EXP 	New trial (rep=0, index=60): <Trial 60 (60 in rep 0) data={'name': 'images/objects/AALARMSY6.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 60, 'thisTrialN': 60, 'thisRepN': 0}>
+78.5700 	EXP 	image: autoDraw = False
+78.5700 	EXP 	text: autoDraw = False
+78.5700 	EXP 	image: image = 'images/objects/AALARMSY6.jpg'
+78.5700 	EXP 	text: text = '+'
+78.5700 	EXP 	image: autoDraw = True
+78.8480 	EXP 	text: autoDraw = True
+78.8726 	EXP 	image: autoDraw = False
+80.0687 	EXP 	text: autoDraw = False
+80.0801 	EXP 	New trial (rep=0, index=61): <Trial 61 (61 in rep 0) data={'name': 'images/objects/Acartofgroce3.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 61, 'thisTrialN': 61, 'thisRepN': 0}>
+80.1112 	EXP 	image: autoDraw = False
+80.1112 	EXP 	text: autoDraw = False
+80.1112 	EXP 	image: image = 'images/objects/Acartofgroce3.jpg'
+80.1112 	EXP 	text: text = '+'
+80.1112 	EXP 	image: autoDraw = True
+80.3765 	EXP 	text: autoDraw = True
+80.4127 	EXP 	image: autoDraw = False
+81.1465 	EXP 	text: autoDraw = False
+81.1699 	EXP 	New trial (rep=0, index=62): <Trial 62 (62 in rep 0) data={'name': 'images/objects/ATOILROL2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 62, 'thisTrialN': 62, 'thisRepN': 0}>
+81.1866 	EXP 	image: autoDraw = False
+81.1866 	EXP 	text: autoDraw = False
+81.1866 	EXP 	image: image = 'images/objects/ATOILROL2.jpg'
+81.1866 	EXP 	text: text = '+'
+81.1866 	EXP 	image: autoDraw = True
+81.4691 	EXP 	text: autoDraw = True
+81.4786 	EXP 	image: autoDraw = False
+82.6752 	EXP 	text: autoDraw = False
+82.6756 	EXP 	New trial (rep=0, index=63): <Trial 63 (63 in rep 0) data={'name': 'images/faces/male/David_Guetta.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 63, 'thisTrialN': 63, 'thisRepN': 0}>
+82.7093 	EXP 	image: autoDraw = False
+82.7093 	EXP 	text: autoDraw = False
+82.7093 	EXP 	image: image = 'images/faces/male/David_Guetta.jpg'
+82.7093 	EXP 	text: text = '+'
+82.7093 	EXP 	image: autoDraw = True
+82.9792 	EXP 	text: autoDraw = True
+83.0147 	EXP 	image: autoDraw = False
+83.7340 	EXP 	text: autoDraw = False
+83.7453 	EXP 	New trial (rep=0, index=64): <Trial 64 (64 in rep 0) data={'name': 'images/objects/hottub.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 64, 'thisTrialN': 64, 'thisRepN': 0}>
+83.7653 	EXP 	image: autoDraw = False
+83.7653 	EXP 	text: autoDraw = False
+83.7653 	EXP 	image: image = 'images/objects/hottub.jpg'
+83.7653 	EXP 	text: text = '+'
+83.7653 	EXP 	image: autoDraw = True
+84.0456 	EXP 	text: autoDraw = True
+84.0692 	EXP 	image: autoDraw = False
+84.9369 	EXP 	text: autoDraw = False
+84.9488 	EXP 	New trial (rep=0, index=65): <Trial 65 (65 in rep 0) data={'name': 'images/objects/Ascarf7.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 65, 'thisTrialN': 65, 'thisRepN': 0}>
+84.9654 	EXP 	image: autoDraw = False
+84.9654 	EXP 	text: autoDraw = False
+84.9654 	EXP 	image: image = 'images/objects/Ascarf7.jpg'
+84.9654 	EXP 	text: text = '+'
+84.9654 	EXP 	image: autoDraw = True
+85.2516 	EXP 	text: autoDraw = True
+85.2635 	EXP 	image: autoDraw = False
+86.2043 	EXP 	text: autoDraw = False
+86.2167 	EXP 	New trial (rep=0, index=66): <Trial 66 (66 in rep 0) data={'name': 'images/faces/male/Eddie_Murphy.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 66, 'thisTrialN': 66, 'thisRepN': 0}>
+86.2453 	EXP 	image: autoDraw = False
+86.2453 	EXP 	text: autoDraw = False
+86.2453 	EXP 	image: image = 'images/faces/male/Eddie_Murphy.jpg'
+86.2453 	EXP 	text: text = '+'
+86.2453 	EXP 	image: autoDraw = True
+86.5155 	EXP 	text: autoDraw = True
+86.5400 	EXP 	image: autoDraw = False
+87.6391 	EXP 	text: autoDraw = False
+87.6629 	EXP 	New trial (rep=0, index=67): <Trial 67 (67 in rep 0) data={'name': 'images/objects/Aboardgame6.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 67, 'thisTrialN': 67, 'thisRepN': 0}>
+87.6836 	EXP 	image: autoDraw = False
+87.6836 	EXP 	text: autoDraw = False
+87.6836 	EXP 	image: image = 'images/objects/Aboardgame6.jpg'
+87.6836 	EXP 	text: text = '+'
+87.6836 	EXP 	image: autoDraw = True
+87.9603 	EXP 	text: autoDraw = True
+87.9840 	EXP 	image: autoDraw = False
+88.9977 	EXP 	text: autoDraw = False
+89.0204 	EXP 	New trial (rep=0, index=68): <Trial 68 (68 in rep 0) data={'name': 'images/objects/26424784.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 68, 'thisTrialN': 68, 'thisRepN': 0}>
+89.0355 	EXP 	image: autoDraw = False
+89.0355 	EXP 	text: autoDraw = False
+89.0355 	EXP 	image: image = 'images/objects/26424784.thl.jpg'
+89.0355 	EXP 	text: text = '+'
+89.0355 	EXP 	image: autoDraw = True
+89.3248 	EXP 	text: autoDraw = True
+89.3364 	EXP 	image: autoDraw = False
+90.3339 	EXP 	text: autoDraw = False
+90.3343 	EXP 	New trial (rep=0, index=69): <Trial 69 (69 in rep 0) data={'name': 'images/faces/male/Trevor_Noah.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 69, 'thisTrialN': 69, 'thisRepN': 0}>
+90.4139 	EXP 	image: autoDraw = False
+90.4139 	EXP 	text: autoDraw = False
+90.4139 	EXP 	image: image = 'images/faces/male/Trevor_Noah.jpg'
+90.4139 	EXP 	text: text = '+'
+90.4139 	EXP 	image: autoDraw = True
+90.6308 	EXP 	text: autoDraw = True
+90.7106 	EXP 	image: autoDraw = False
+91.8600 	EXP 	text: autoDraw = False
+91.9265 	EXP 	New trial (rep=0, index=70): <Trial 70 (70 in rep 0) data={'name': 'images/objects/26432217.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 70, 'thisTrialN': 70, 'thisRepN': 0}>
+91.9517 	EXP 	image: autoDraw = False
+91.9517 	EXP 	text: autoDraw = False
+91.9517 	EXP 	image: image = 'images/objects/26432217.thl.jpg'
+91.9517 	EXP 	text: text = '+'
+91.9517 	EXP 	image: autoDraw = True
+92.2274 	EXP 	text: autoDraw = True
+92.2516 	EXP 	image: autoDraw = False
+93.4589 	EXP 	text: autoDraw = False
+93.4706 	EXP 	New trial (rep=0, index=71): <Trial 71 (71 in rep 0) data={'name': 'images/faces/female/Demi_Lovato.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 71, 'thisTrialN': 71, 'thisRepN': 0}>
+93.5321 	EXP 	image: autoDraw = False
+93.5321 	EXP 	text: autoDraw = False
+93.5321 	EXP 	image: image = 'images/faces/female/Demi_Lovato.jpg'
+93.5321 	EXP 	text: text = '+'
+93.5321 	EXP 	image: autoDraw = True
+93.7685 	EXP 	text: autoDraw = True
+93.8283 	EXP 	image: autoDraw = False
+95.0012 	EXP 	text: autoDraw = False
+95.0572 	EXP 	New trial (rep=0, index=72): <Trial 72 (72 in rep 0) data={'name': 'images/faces/female/Lorde.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 72, 'thisTrialN': 72, 'thisRepN': 0}>
+95.1398 	EXP 	image: autoDraw = False
+95.1398 	EXP 	text: autoDraw = False
+95.1398 	EXP 	image: image = 'images/faces/female/Lorde.jpg'
+95.1398 	EXP 	text: text = '+'
+95.1398 	EXP 	image: autoDraw = True
+95.3502 	EXP 	text: autoDraw = True
+95.4339 	EXP 	image: autoDraw = False
+96.3802 	EXP 	text: autoDraw = False
+96.4629 	EXP 	New trial (rep=0, index=73): <Trial 73 (73 in rep 0) data={'name': 'images/objects/Apaintroller2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 73, 'thisTrialN': 73, 'thisRepN': 0}>
+96.4878 	EXP 	image: autoDraw = False
+96.4878 	EXP 	text: autoDraw = False
+96.4878 	EXP 	image: image = 'images/objects/Apaintroller2.jpg'
+96.4878 	EXP 	text: text = '+'
+96.4878 	EXP 	image: autoDraw = True
+96.7558 	EXP 	text: autoDraw = True
+96.7884 	EXP 	image: autoDraw = False
+97.8747 	EXP 	text: autoDraw = False
+97.8867 	EXP 	New trial (rep=0, index=74): <Trial 74 (74 in rep 0) data={'name': 'images/faces/female/Queen_Elizabeth.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 74, 'thisTrialN': 74, 'thisRepN': 0}>
+97.9787 	EXP 	image: autoDraw = False
+97.9787 	EXP 	text: autoDraw = False
+97.9787 	EXP 	image: image = 'images/faces/female/Queen_Elizabeth.jpg'
+97.9787 	EXP 	text: text = '+'
+97.9787 	EXP 	image: autoDraw = True
+98.1793 	EXP 	text: autoDraw = True
+98.2771 	EXP 	image: autoDraw = False
+99.2488 	EXP 	text: autoDraw = False
+99.3429 	EXP 	New trial (rep=0, index=75): <Trial 75 (75 in rep 0) data={'name': 'images/objects/26466344.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 75, 'thisTrialN': 75, 'thisRepN': 0}>
+99.3704 	EXP 	image: autoDraw = False
+99.3704 	EXP 	text: autoDraw = False
+99.3704 	EXP 	image: image = 'images/objects/26466344.thl.jpg'
+99.3704 	EXP 	text: text = '+'
+99.3704 	EXP 	image: autoDraw = True
+99.6409 	EXP 	text: autoDraw = True
+99.6768 	EXP 	image: autoDraw = False
+100.5113 	EXP 	text: autoDraw = False
+100.5332 	EXP 	New trial (rep=0, index=76): <Trial 76 (76 in rep 0) data={'name': 'images/faces/male/Tom_Hanks.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 76, 'thisTrialN': 76, 'thisRepN': 0}>
+100.5709 	EXP 	image: autoDraw = False
+100.5709 	EXP 	text: autoDraw = False
+100.5709 	EXP 	image: image = 'images/faces/male/Tom_Hanks.jpg'
+100.5709 	EXP 	text: text = '+'
+100.5709 	EXP 	image: autoDraw = True
+100.8295 	EXP 	text: autoDraw = True
+100.8772 	EXP 	image: autoDraw = False
+101.7342 	EXP 	text: autoDraw = False
+101.7558 	EXP 	New trial (rep=0, index=77): <Trial 77 (77 in rep 0) data={'name': 'images/faces/female/Sonya_Sotomayor.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 77, 'thisTrialN': 77, 'thisRepN': 0}>
+101.7874 	EXP 	image: autoDraw = False
+101.7874 	EXP 	text: autoDraw = False
+101.7874 	EXP 	image: image = 'images/faces/female/Sonya_Sotomayor.jpg'
+101.7874 	EXP 	text: text = '+'
+101.7874 	EXP 	image: autoDraw = True
+102.0554 	EXP 	text: autoDraw = True
+102.0890 	EXP 	image: autoDraw = False
+102.5400 	DATA 	joystick_0_button: 2
+103.2796 	EXP 	text: autoDraw = False
+103.2995 	EXP 	New trial (rep=0, index=78): <Trial 78 (78 in rep 0) data={'name': 'images/faces/female/Margot_Robbie.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 78, 'thisTrialN': 78, 'thisRepN': 0}>
+103.3281 	EXP 	image: autoDraw = False
+103.3281 	EXP 	text: autoDraw = False
+103.3281 	EXP 	image: image = 'images/faces/female/Margot_Robbie.jpg'
+103.3281 	EXP 	text: text = '+'
+103.3281 	EXP 	image: autoDraw = True
+103.5952 	EXP 	text: autoDraw = True
+103.6278 	EXP 	image: autoDraw = False
+104.3520 	EXP 	text: autoDraw = False
+104.3728 	EXP 	New trial (rep=0, index=79): <Trial 79 (79 in rep 0) data={'name': 'images/faces/female/Meghan_Rapinoe.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 79, 'thisTrialN': 79, 'thisRepN': 0}>
+104.3990 	EXP 	image: autoDraw = False
+104.3990 	EXP 	text: autoDraw = False
+104.3990 	EXP 	image: image = 'images/faces/female/Meghan_Rapinoe.jpg'
+104.3990 	EXP 	text: text = '+'
+104.3990 	EXP 	image: autoDraw = True
+104.6716 	EXP 	text: autoDraw = True
+104.6956 	EXP 	image: autoDraw = False
+105.7297 	EXP 	text: autoDraw = False
+105.7418 	EXP 	New trial (rep=0, index=80): <Trial 80 (80 in rep 0) data={'name': 'images/faces/female/Mary_Kate_Olsen.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 80, 'thisTrialN': 80, 'thisRepN': 0}>
+105.8148 	EXP 	image: autoDraw = False
+105.8148 	EXP 	text: autoDraw = False
+105.8148 	EXP 	image: image = 'images/faces/female/Mary_Kate_Olsen.jpg'
+105.8148 	EXP 	text: text = '+'
+105.8148 	EXP 	image: autoDraw = True
+106.0411 	EXP 	text: autoDraw = True
+106.1084 	EXP 	image: autoDraw = False
+106.9355 	EXP 	text: autoDraw = False
+106.9923 	EXP 	New trial (rep=0, index=81): <Trial 81 (81 in rep 0) data={'name': 'images/objects/ARASPBER2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 81, 'thisTrialN': 81, 'thisRepN': 0}>
+107.0162 	EXP 	image: autoDraw = False
+107.0162 	EXP 	text: autoDraw = False
+107.0162 	EXP 	image: image = 'images/objects/ARASPBER2.jpg'
+107.0162 	EXP 	text: text = '+'
+107.0162 	EXP 	image: autoDraw = True
+107.2946 	EXP 	text: autoDraw = True
+107.3191 	EXP 	image: autoDraw = False
+108.5048 	EXP 	text: autoDraw = False
+108.5052 	EXP 	New trial (rep=0, index=82): <Trial 82 (82 in rep 0) data={'name': 'images/faces/male/Mark_Zuckerberg.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 82, 'thisTrialN': 82, 'thisRepN': 0}>
+108.5922 	EXP 	image: autoDraw = False
+108.5922 	EXP 	text: autoDraw = False
+108.5922 	EXP 	image: image = 'images/faces/male/Mark_Zuckerberg.jpg'
+108.5922 	EXP 	text: text = '+'
+108.5922 	EXP 	image: autoDraw = True
+108.8008 	EXP 	text: autoDraw = True
+108.8893 	EXP 	image: autoDraw = False
+109.6814 	EXP 	text: autoDraw = False
+109.7613 	EXP 	New trial (rep=0, index=83): <Trial 83 (83 in rep 0) data={'name': 'images/faces/male/George_Clooney.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 83, 'thisTrialN': 83, 'thisRepN': 0}>
+109.7971 	EXP 	image: autoDraw = False
+109.7971 	EXP 	text: autoDraw = False
+109.7971 	EXP 	image: image = 'images/faces/male/George_Clooney.jpg'
+109.7971 	EXP 	text: text = '+'
+109.7971 	EXP 	image: autoDraw = True
+110.0597 	EXP 	text: autoDraw = True
+110.0956 	EXP 	image: autoDraw = False
+110.9502 	EXP 	text: autoDraw = False
+110.9753 	EXP 	New trial (rep=0, index=84): <Trial 84 (84 in rep 0) data={'name': 'images/faces/female/Andrea_Russet.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 84, 'thisTrialN': 84, 'thisRepN': 0}>
+111.0041 	EXP 	image: autoDraw = False
+111.0041 	EXP 	text: autoDraw = False
+111.0041 	EXP 	image: image = 'images/faces/female/Andrea_Russet.jpg'
+111.0041 	EXP 	text: text = '+'
+111.0041 	EXP 	image: autoDraw = True
+111.2750 	EXP 	text: autoDraw = True
+111.2989 	EXP 	image: autoDraw = False
+112.3600 	EXP 	text: autoDraw = False
+112.3790 	EXP 	New trial (rep=0, index=85): <Trial 85 (85 in rep 0) data={'name': 'images/faces/female/Iggy_Azalea.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 85, 'thisTrialN': 85, 'thisRepN': 0}>
+112.4069 	EXP 	image: autoDraw = False
+112.4069 	EXP 	text: autoDraw = False
+112.4069 	EXP 	image: image = 'images/faces/female/Iggy_Azalea.jpg'
+112.4069 	EXP 	text: text = '+'
+112.4069 	EXP 	image: autoDraw = True
+112.6715 	EXP 	text: autoDraw = True
+112.7025 	EXP 	image: autoDraw = False
+113.6802 	EXP 	text: autoDraw = False
+113.7052 	EXP 	New trial (rep=0, index=86): <Trial 86 (86 in rep 0) data={'name': 'images/faces/male/Nick_Jonas.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 86, 'thisTrialN': 86, 'thisRepN': 0}>
+113.7531 	EXP 	image: autoDraw = False
+113.7531 	EXP 	text: autoDraw = False
+113.7531 	EXP 	image: image = 'images/faces/male/Nick_Jonas.jpg'
+113.7531 	EXP 	text: text = '+'
+113.7531 	EXP 	image: autoDraw = True
+114.0027 	EXP 	text: autoDraw = True
+114.0507 	EXP 	image: autoDraw = False
+115.1475 	EXP 	text: autoDraw = False
+115.1835 	EXP 	New trial (rep=0, index=87): <Trial 87 (87 in rep 0) data={'name': 'images/faces/female/Hillary_Clinton.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 87, 'thisTrialN': 87, 'thisRepN': 0}>
+115.2589 	EXP 	image: autoDraw = False
+115.2589 	EXP 	text: autoDraw = False
+115.2589 	EXP 	image: image = 'images/faces/female/Hillary_Clinton.jpg'
+115.2589 	EXP 	text: text = '+'
+115.2589 	EXP 	image: autoDraw = True
+115.4832 	EXP 	text: autoDraw = True
+115.5600 	EXP 	image: autoDraw = False
+116.6087 	EXP 	text: autoDraw = False
+116.6786 	EXP 	New trial (rep=0, index=88): <Trial 88 (88 in rep 0) data={'name': 'images/faces/female/Gwen_Stefani.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 88, 'thisTrialN': 88, 'thisRepN': 0}>
+116.7116 	EXP 	image: autoDraw = False
+116.7116 	EXP 	text: autoDraw = False
+116.7116 	EXP 	image: image = 'images/faces/female/Gwen_Stefani.jpg'
+116.7116 	EXP 	text: text = '+'
+116.7116 	EXP 	image: autoDraw = True
+116.9773 	EXP 	text: autoDraw = True
+117.0145 	EXP 	image: autoDraw = False
+117.9570 	EXP 	text: autoDraw = False
+117.9790 	EXP 	New trial (rep=0, index=89): <Trial 89 (89 in rep 0) data={'name': 'images/objects/hurdle.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 89, 'thisTrialN': 89, 'thisRepN': 0}>
+117.9974 	EXP 	image: autoDraw = False
+117.9974 	EXP 	text: autoDraw = False
+117.9974 	EXP 	image: image = 'images/objects/hurdle.jpg'
+117.9974 	EXP 	text: text = '+'
+117.9974 	EXP 	image: autoDraw = True
+118.2743 	EXP 	text: autoDraw = True
+118.2994 	EXP 	image: autoDraw = False
+119.4070 	EXP 	text: autoDraw = False
+119.4178 	EXP 	New trial (rep=0, index=90): <Trial 90 (90 in rep 0) data={'name': 'images/objects/26379612.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 90, 'thisTrialN': 90, 'thisRepN': 0}>
+119.4322 	EXP 	image: autoDraw = False
+119.4322 	EXP 	text: autoDraw = False
+119.4322 	EXP 	image: image = 'images/objects/26379612.thl.jpg'
+119.4322 	EXP 	text: text = '+'
+119.4322 	EXP 	image: autoDraw = True
+119.7139 	EXP 	text: autoDraw = True
+119.7380 	EXP 	image: autoDraw = False
+120.4634 	EXP 	text: autoDraw = False
+120.4747 	EXP 	New trial (rep=0, index=91): <Trial 91 (91 in rep 0) data={'name': 'images/faces/female/Addison_Rae.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 91, 'thisTrialN': 91, 'thisRepN': 0}>
+120.5279 	EXP 	image: autoDraw = False
+120.5279 	EXP 	text: autoDraw = False
+120.5279 	EXP 	image: image = 'images/faces/female/Addison_Rae.jpg'
+120.5279 	EXP 	text: text = '+'
+120.5279 	EXP 	image: autoDraw = True
+120.7731 	EXP 	text: autoDraw = True
+120.8287 	EXP 	image: autoDraw = False
+121.2033 	DATA 	joystick_0_button: 2
+121.8108 	EXP 	text: autoDraw = False
+121.8542 	EXP 	New trial (rep=0, index=92): <Trial 92 (92 in rep 0) data={'name': 'images/objects/golf-ball.JPG', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 92, 'thisTrialN': 92, 'thisRepN': 0}>
+121.8757 	EXP 	image: autoDraw = False
+121.8757 	EXP 	text: autoDraw = False
+121.8757 	EXP 	image: image = 'images/objects/golf-ball.JPG'
+121.8757 	EXP 	text: text = '+'
+121.8757 	EXP 	image: autoDraw = True
+122.1585 	EXP 	text: autoDraw = True
+122.1698 	EXP 	image: autoDraw = False
+123.3545 	EXP 	text: autoDraw = False
+123.3669 	EXP 	New trial (rep=0, index=93): <Trial 93 (93 in rep 0) data={'name': 'images/objects/ACOCONUT2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 93, 'thisTrialN': 93, 'thisRepN': 0}>
+123.3838 	EXP 	image: autoDraw = False
+123.3838 	EXP 	text: autoDraw = False
+123.3838 	EXP 	image: image = 'images/objects/ACOCONUT2.jpg'
+123.3838 	EXP 	text: text = '+'
+123.3838 	EXP 	image: autoDraw = True
+123.6647 	EXP 	text: autoDraw = True
+123.6891 	EXP 	image: autoDraw = False
+124.4821 	EXP 	text: autoDraw = False
+124.4931 	EXP 	New trial (rep=0, index=94): <Trial 94 (94 in rep 0) data={'name': 'images/objects/ACUTBOAR2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 94, 'thisTrialN': 94, 'thisRepN': 0}>
+124.5112 	EXP 	image: autoDraw = False
+124.5112 	EXP 	text: autoDraw = False
+124.5112 	EXP 	image: image = 'images/objects/ACUTBOAR2.jpg'
+124.5112 	EXP 	text: text = '+'
+124.5112 	EXP 	image: autoDraw = True
+124.7864 	EXP 	text: autoDraw = True
+124.8055 	EXP 	image: autoDraw = False
+125.5673 	EXP 	text: autoDraw = False
+125.5793 	EXP 	New trial (rep=0, index=95): <Trial 95 (95 in rep 0) data={'name': 'images/objects/driedprune.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 95, 'thisTrialN': 95, 'thisRepN': 0}>
+125.5973 	EXP 	image: autoDraw = False
+125.5973 	EXP 	text: autoDraw = False
+125.5973 	EXP 	image: image = 'images/objects/driedprune.jpg'
+125.5973 	EXP 	text: text = '+'
+125.5973 	EXP 	image: autoDraw = True
+125.8829 	EXP 	text: autoDraw = True
+125.8943 	EXP 	image: autoDraw = False
+126.1589 	DATA 	joystick_0_button: 2
+126.8173 	EXP 	text: autoDraw = False
+126.8176 	EXP 	New trial (rep=0, index=96): <Trial 96 (96 in rep 0) data={'name': 'images/faces/female/Alicia_Keys.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 96, 'thisTrialN': 96, 'thisRepN': 0}>
+126.8457 	EXP 	image: autoDraw = False
+126.8457 	EXP 	text: autoDraw = False
+126.8457 	EXP 	image: image = 'images/faces/female/Alicia_Keys.jpg'
+126.8457 	EXP 	text: text = '+'
+126.8457 	EXP 	image: autoDraw = True
+127.1183 	EXP 	text: autoDraw = True
+127.1406 	EXP 	image: autoDraw = False
+128.0666 	EXP 	text: autoDraw = False
+128.0784 	EXP 	New trial (rep=0, index=97): <Trial 97 (97 in rep 0) data={'name': 'images/faces/male/David_Guetta.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 97, 'thisTrialN': 97, 'thisRepN': 0}>
+128.1061 	EXP 	image: autoDraw = False
+128.1061 	EXP 	text: autoDraw = False
+128.1061 	EXP 	image: image = 'images/faces/male/David_Guetta.jpg'
+128.1061 	EXP 	text: text = '+'
+128.1061 	EXP 	image: autoDraw = True
+128.3810 	EXP 	text: autoDraw = True
+128.4051 	EXP 	image: autoDraw = False
+128.6893 	DATA 	joystick_0_button: 2
+129.4080 	EXP 	text: autoDraw = False
+129.4196 	EXP 	New trial (rep=0, index=98): <Trial 98 (98 in rep 0) data={'name': 'images/faces/male/Benedict_Cumberbatch.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 98, 'thisTrialN': 98, 'thisRepN': 0}>
+129.4501 	EXP 	image: autoDraw = False
+129.4501 	EXP 	text: autoDraw = False
+129.4501 	EXP 	image: image = 'images/faces/male/Benedict_Cumberbatch.jpg'
+129.4501 	EXP 	text: text = '+'
+129.4501 	EXP 	image: autoDraw = True
+129.7172 	EXP 	text: autoDraw = True
+129.7544 	EXP 	image: autoDraw = False
+130.4975 	EXP 	text: autoDraw = False
+130.5214 	EXP 	New trial (rep=0, index=99): <Trial 99 (99 in rep 0) data={'name': 'images/objects/clawhairclips.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 99, 'thisTrialN': 99, 'thisRepN': 0}>
+130.5405 	EXP 	image: autoDraw = False
+130.5405 	EXP 	text: autoDraw = False
+130.5405 	EXP 	image: image = 'images/objects/clawhairclips.jpg'
+130.5405 	EXP 	text: text = '+'
+130.5405 	EXP 	image: autoDraw = True
+130.8188 	EXP 	text: autoDraw = True
+130.8437 	EXP 	image: autoDraw = False
+131.6172 	EXP 	text: autoDraw = False
+131.6295 	EXP 	New trial (rep=0, index=100): <Trial 100 (100 in rep 0) data={'name': 'images/faces/female/Julianne_Moore.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 100, 'thisTrialN': 100, 'thisRepN': 0}>
+131.6588 	EXP 	image: autoDraw = False
+131.6588 	EXP 	text: autoDraw = False
+131.6588 	EXP 	image: image = 'images/faces/female/Julianne_Moore.jpg'
+131.6588 	EXP 	text: text = '+'
+131.6588 	EXP 	image: autoDraw = True
+131.9327 	EXP 	text: autoDraw = True
+131.9578 	EXP 	image: autoDraw = False
+132.9258 	EXP 	text: autoDraw = False
+132.9380 	EXP 	New trial (rep=0, index=101): <Trial 101 (101 in rep 0) data={'name': 'images/objects/Chevypickup.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 101, 'thisTrialN': 101, 'thisRepN': 0}>
+132.9572 	EXP 	image: autoDraw = False
+132.9572 	EXP 	text: autoDraw = False
+132.9572 	EXP 	image: image = 'images/objects/Chevypickup.jpg'
+132.9572 	EXP 	text: text = '+'
+132.9572 	EXP 	image: autoDraw = True
+133.2351 	EXP 	text: autoDraw = True
+133.2591 	EXP 	image: autoDraw = False
+134.1592 	EXP 	text: autoDraw = False
+134.1696 	EXP 	New trial (rep=0, index=102): <Trial 102 (102 in rep 0) data={'name': 'images/objects/Heatpad.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 102, 'thisTrialN': 102, 'thisRepN': 0}>
+134.1865 	EXP 	image: autoDraw = False
+134.1865 	EXP 	text: autoDraw = False
+134.1865 	EXP 	image: image = 'images/objects/Heatpad.jpg'
+134.1865 	EXP 	text: text = '+'
+134.1865 	EXP 	image: autoDraw = True
+134.4683 	EXP 	text: autoDraw = True
+134.4923 	EXP 	image: autoDraw = False
+135.4822 	EXP 	text: autoDraw = False
+135.4934 	EXP 	New trial (rep=0, index=103): <Trial 103 (103 in rep 0) data={'name': 'images/faces/male/Doug_McMillon.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 103, 'thisTrialN': 103, 'thisRepN': 0}>
+135.5580 	EXP 	image: autoDraw = False
+135.5580 	EXP 	text: autoDraw = False
+135.5580 	EXP 	image: image = 'images/faces/male/Doug_McMillon.jpg'
+135.5580 	EXP 	text: text = '+'
+135.5580 	EXP 	image: autoDraw = True
+135.7866 	EXP 	text: autoDraw = True
+135.8588 	EXP 	image: autoDraw = False
+136.8746 	EXP 	text: autoDraw = False
+136.9402 	EXP 	New trial (rep=0, index=104): <Trial 104 (104 in rep 0) data={'name': 'images/faces/male/Connor_McGregor.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 104, 'thisTrialN': 104, 'thisRepN': 0}>
+136.9672 	EXP 	image: autoDraw = False
+136.9672 	EXP 	text: autoDraw = False
+136.9672 	EXP 	image: image = 'images/faces/male/Connor_McGregor.jpg'
+136.9672 	EXP 	text: text = '+'
+136.9672 	EXP 	image: autoDraw = True
+137.2416 	EXP 	text: autoDraw = True
+137.2649 	EXP 	image: autoDraw = False
+138.1826 	EXP 	text: autoDraw = False
+138.1944 	EXP 	New trial (rep=0, index=105): <Trial 105 (105 in rep 0) data={'name': 'images/objects/22883664.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 105, 'thisTrialN': 105, 'thisRepN': 0}>
+138.2206 	EXP 	image: autoDraw = False
+138.2206 	EXP 	text: autoDraw = False
+138.2206 	EXP 	image: image = 'images/objects/22883664.thl.jpg'
+138.2206 	EXP 	text: text = '+'
+138.2206 	EXP 	image: autoDraw = True
+138.4909 	EXP 	text: autoDraw = True
+138.5278 	EXP 	image: autoDraw = False
+139.2405 	EXP 	text: autoDraw = False
+139.2647 	EXP 	New trial (rep=0, index=106): <Trial 106 (106 in rep 0) data={'name': 'images/faces/female/Rihanna.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 106, 'thisTrialN': 106, 'thisRepN': 0}>
+139.2949 	EXP 	image: autoDraw = False
+139.2949 	EXP 	text: autoDraw = False
+139.2949 	EXP 	image: image = 'images/faces/female/Rihanna.jpg'
+139.2949 	EXP 	text: text = '+'
+139.2949 	EXP 	image: autoDraw = True
+139.5591 	EXP 	text: autoDraw = True
+139.5902 	EXP 	image: autoDraw = False
+140.3486 	EXP 	text: autoDraw = False
+140.3720 	EXP 	New trial (rep=0, index=107): <Trial 107 (107 in rep 0) data={'name': 'images/objects/Aallterrain10.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 107, 'thisTrialN': 107, 'thisRepN': 0}>
+140.3854 	EXP 	image: autoDraw = False
+140.3854 	EXP 	text: autoDraw = False
+140.3854 	EXP 	image: image = 'images/objects/Aallterrain10.jpg'
+140.3854 	EXP 	text: text = '+'
+140.3854 	EXP 	image: autoDraw = True
+140.6730 	EXP 	text: autoDraw = True
+140.6856 	EXP 	image: autoDraw = False
+141.7495 	EXP 	text: autoDraw = False
+141.7502 	EXP 	New trial (rep=0, index=108): <Trial 108 (108 in rep 0) data={'name': 'images/faces/male/Jay_Leno.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 108, 'thisTrialN': 108, 'thisRepN': 0}>
+141.8375 	EXP 	image: autoDraw = False
+141.8375 	EXP 	text: autoDraw = False
+141.8375 	EXP 	image: image = 'images/faces/male/Jay_Leno.jpg'
+141.8375 	EXP 	text: text = '+'
+141.8375 	EXP 	image: autoDraw = True
+142.0494 	EXP 	text: autoDraw = True
+142.1350 	EXP 	image: autoDraw = False
+143.0057 	EXP 	text: autoDraw = False
+143.0880 	EXP 	New trial (rep=0, index=109): <Trial 109 (109 in rep 0) data={'name': 'images/faces/female/Bethenny_Frankel.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 109, 'thisTrialN': 109, 'thisRepN': 0}>
+143.1550 	EXP 	image: autoDraw = False
+143.1550 	EXP 	text: autoDraw = False
+143.1550 	EXP 	image: image = 'images/faces/female/Bethenny_Frankel.jpg'
+143.1550 	EXP 	text: text = '+'
+143.1550 	EXP 	image: autoDraw = True
+143.3853 	EXP 	text: autoDraw = True
+143.4471 	EXP 	image: autoDraw = False
+144.4352 	EXP 	text: autoDraw = False
+144.4906 	EXP 	New trial (rep=0, index=110): <Trial 110 (110 in rep 0) data={'name': 'images/objects/8253370.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 110, 'thisTrialN': 110, 'thisRepN': 0}>
+144.5134 	EXP 	image: autoDraw = False
+144.5134 	EXP 	text: autoDraw = False
+144.5134 	EXP 	image: image = 'images/objects/8253370.thl.jpg'
+144.5134 	EXP 	text: text = '+'
+144.5134 	EXP 	image: autoDraw = True
+144.7846 	EXP 	text: autoDraw = True
+144.8095 	EXP 	image: autoDraw = False
+145.8000 	EXP 	text: autoDraw = False
+145.8121 	EXP 	New trial (rep=0, index=111): <Trial 111 (111 in rep 0) data={'name': 'images/objects/ACURLRIB2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 111, 'thisTrialN': 111, 'thisRepN': 0}>
+145.8300 	EXP 	image: autoDraw = False
+145.8300 	EXP 	text: autoDraw = False
+145.8300 	EXP 	image: image = 'images/objects/ACURLRIB2.jpg'
+145.8300 	EXP 	text: text = '+'
+145.8300 	EXP 	image: autoDraw = True
+146.1138 	EXP 	text: autoDraw = True
+146.1247 	EXP 	image: autoDraw = False
+147.3386 	EXP 	text: autoDraw = False
+147.3390 	EXP 	New trial (rep=0, index=112): <Trial 112 (112 in rep 0) data={'name': 'images/faces/male/Nathan_Chen.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 112, 'thisTrialN': 112, 'thisRepN': 0}>
+147.4246 	EXP 	image: autoDraw = False
+147.4246 	EXP 	text: autoDraw = False
+147.4246 	EXP 	image: image = 'images/faces/male/Nathan_Chen.jpg'
+147.4246 	EXP 	text: text = '+'
+147.4246 	EXP 	image: autoDraw = True
+147.6386 	EXP 	text: autoDraw = True
+147.7233 	EXP 	image: autoDraw = False
+148.8254 	EXP 	text: autoDraw = False
+148.9032 	EXP 	New trial (rep=0, index=113): <Trial 113 (113 in rep 0) data={'name': 'images/faces/male/Jim_Gaffigan.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 113, 'thisTrialN': 113, 'thisRepN': 0}>
+148.9450 	EXP 	image: autoDraw = False
+148.9450 	EXP 	text: autoDraw = False
+148.9450 	EXP 	image: image = 'images/faces/male/Jim_Gaffigan.jpg'
+148.9450 	EXP 	text: text = '+'
+148.9450 	EXP 	image: autoDraw = True
+149.2003 	EXP 	text: autoDraw = True
+149.2470 	EXP 	image: autoDraw = False
+150.3231 	EXP 	text: autoDraw = False
+150.3575 	EXP 	New trial (rep=0, index=114): <Trial 114 (114 in rep 0) data={'name': 'images/objects/moto.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 114, 'thisTrialN': 114, 'thisRepN': 0}>
+150.3782 	EXP 	image: autoDraw = False
+150.3782 	EXP 	text: autoDraw = False
+150.3782 	EXP 	image: image = 'images/objects/moto.jpg'
+150.3782 	EXP 	text: text = '+'
+150.3782 	EXP 	image: autoDraw = True
+150.6583 	EXP 	text: autoDraw = True
+150.6815 	EXP 	image: autoDraw = False
+151.8338 	EXP 	text: autoDraw = False
+151.8342 	EXP 	New trial (rep=0, index=115): <Trial 115 (115 in rep 0) data={'name': 'images/faces/male/Conan_O_Brien.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 115, 'thisTrialN': 115, 'thisRepN': 0}>
+151.8589 	EXP 	image: autoDraw = False
+151.8589 	EXP 	text: autoDraw = False
+151.8589 	EXP 	image: image = 'images/faces/male/Conan_O_Brien.jpg'
+151.8589 	EXP 	text: text = '+'
+151.8589 	EXP 	image: autoDraw = True
+152.1329 	EXP 	text: autoDraw = True
+152.1529 	EXP 	image: autoDraw = False
+152.9418 	EXP 	text: autoDraw = False
+152.9532 	EXP 	New trial (rep=0, index=116): <Trial 116 (116 in rep 0) data={'name': 'images/objects/ARATTLE.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 116, 'thisTrialN': 116, 'thisRepN': 0}>
+152.9727 	EXP 	image: autoDraw = False
+152.9727 	EXP 	text: autoDraw = False
+152.9727 	EXP 	image: image = 'images/objects/ARATTLE.jpg'
+152.9727 	EXP 	text: text = '+'
+152.9727 	EXP 	image: autoDraw = True
+153.2516 	EXP 	text: autoDraw = True
+153.2726 	EXP 	image: autoDraw = False
+154.4440 	EXP 	text: autoDraw = False
+154.4565 	EXP 	New trial (rep=0, index=117): <Trial 117 (117 in rep 0) data={'name': 'images/faces/female/Maggie_Smith.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 117, 'thisTrialN': 117, 'thisRepN': 0}>
+154.4874 	EXP 	image: autoDraw = False
+154.4874 	EXP 	text: autoDraw = False
+154.4874 	EXP 	image: image = 'images/faces/female/Maggie_Smith.jpg'
+154.4874 	EXP 	text: text = '+'
+154.4874 	EXP 	image: autoDraw = True
+154.7494 	EXP 	text: autoDraw = True
+154.7949 	EXP 	image: autoDraw = False
+155.5878 	EXP 	text: autoDraw = False
+155.6222 	EXP 	New trial (rep=0, index=118): <Trial 118 (118 in rep 0) data={'name': 'images/objects/ANWSPAPER.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 118, 'thisTrialN': 118, 'thisRepN': 0}>
+155.6413 	EXP 	image: autoDraw = False
+155.6413 	EXP 	text: autoDraw = False
+155.6413 	EXP 	image: image = 'images/objects/ANWSPAPER.jpg'
+155.6413 	EXP 	text: text = '+'
+155.6413 	EXP 	image: autoDraw = True
+155.9238 	EXP 	text: autoDraw = True
+155.9351 	EXP 	image: autoDraw = False
+156.9138 	EXP 	text: autoDraw = False
+156.9142 	EXP 	New trial (rep=0, index=119): <Trial 119 (119 in rep 0) data={'name': 'images/faces/male/Snoop_Dogg.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 119, 'thisTrialN': 119, 'thisRepN': 0}>
+156.9447 	EXP 	image: autoDraw = False
+156.9447 	EXP 	text: autoDraw = False
+156.9447 	EXP 	image: image = 'images/faces/male/Snoop_Dogg.jpg'
+156.9447 	EXP 	text: text = '+'
+156.9447 	EXP 	image: autoDraw = True
+157.2100 	EXP 	text: autoDraw = True
+157.2461 	EXP 	image: autoDraw = False
+158.2711 	EXP 	text: autoDraw = False
+158.2925 	EXP 	New trial (rep=0, index=120): <Trial 120 (120 in rep 0) data={'name': 'images/objects/ABACKHOE2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 120, 'thisTrialN': 120, 'thisRepN': 0}>
+158.3132 	EXP 	image: autoDraw = False
+158.3132 	EXP 	text: autoDraw = False
+158.3132 	EXP 	image: image = 'images/objects/ABACKHOE2.jpg'
+158.3132 	EXP 	text: text = '+'
+158.3132 	EXP 	image: autoDraw = True
+158.5911 	EXP 	text: autoDraw = True
+158.6157 	EXP 	image: autoDraw = False
+159.5446 	EXP 	text: autoDraw = False
+159.5573 	EXP 	New trial (rep=0, index=121): <Trial 121 (121 in rep 0) data={'name': 'images/objects/26425370.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 121, 'thisTrialN': 121, 'thisRepN': 0}>
+159.5735 	EXP 	image: autoDraw = False
+159.5735 	EXP 	text: autoDraw = False
+159.5735 	EXP 	image: image = 'images/objects/26425370.thl.jpg'
+159.5735 	EXP 	text: text = '+'
+159.5735 	EXP 	image: autoDraw = True
+159.8619 	EXP 	text: autoDraw = True
+159.8742 	EXP 	image: autoDraw = False
+160.7576 	EXP 	text: autoDraw = False
+160.7668 	EXP 	New trial (rep=0, index=122): <Trial 122 (122 in rep 0) data={'name': 'images/faces/male/Usher.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 122, 'thisTrialN': 122, 'thisRepN': 0}>
+160.7929 	EXP 	image: autoDraw = False
+160.7929 	EXP 	text: autoDraw = False
+160.7929 	EXP 	image: image = 'images/faces/male/Usher.jpg'
+160.7929 	EXP 	text: text = '+'
+160.7929 	EXP 	image: autoDraw = True
+161.0659 	EXP 	text: autoDraw = True
+161.0899 	EXP 	image: autoDraw = False
+161.9210 	EXP 	text: autoDraw = False
+161.9435 	EXP 	New trial (rep=0, index=123): <Trial 123 (123 in rep 0) data={'name': 'images/objects/Atoyball.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 123, 'thisTrialN': 123, 'thisRepN': 0}>
+161.9624 	EXP 	image: autoDraw = False
+161.9624 	EXP 	text: autoDraw = False
+161.9624 	EXP 	image: image = 'images/objects/Atoyball.jpg'
+161.9624 	EXP 	text: text = '+'
+161.9624 	EXP 	image: autoDraw = True
+162.2481 	EXP 	text: autoDraw = True
+162.2577 	EXP 	image: autoDraw = False
+163.3215 	EXP 	text: autoDraw = False
+163.3218 	EXP 	New trial (rep=0, index=124): <Trial 124 (124 in rep 0) data={'name': 'images/faces/male/Eminem.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 124, 'thisTrialN': 124, 'thisRepN': 0}>
+163.3499 	EXP 	image: autoDraw = False
+163.3499 	EXP 	text: autoDraw = False
+163.3499 	EXP 	image: image = 'images/faces/male/Eminem.jpg'
+163.3499 	EXP 	text: text = '+'
+163.3499 	EXP 	image: autoDraw = True
+163.6232 	EXP 	text: autoDraw = True
+163.6472 	EXP 	image: autoDraw = False
+164.8452 	EXP 	text: autoDraw = False
+164.8681 	EXP 	New trial (rep=0, index=125): <Trial 125 (125 in rep 0) data={'name': 'images/faces/male/Billy_Joel.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 125, 'thisTrialN': 125, 'thisRepN': 0}>
+164.9304 	EXP 	image: autoDraw = False
+164.9304 	EXP 	text: autoDraw = False
+164.9304 	EXP 	image: image = 'images/faces/male/Billy_Joel.jpg'
+164.9304 	EXP 	text: text = '+'
+164.9304 	EXP 	image: autoDraw = True
+165.1644 	EXP 	text: autoDraw = True
+165.2259 	EXP 	image: autoDraw = False
+166.2893 	EXP 	text: autoDraw = False
+166.3452 	EXP 	New trial (rep=0, index=126): <Trial 126 (126 in rep 0) data={'name': 'images/faces/male/John_Legend.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 126, 'thisTrialN': 126, 'thisRepN': 0}>
+166.4078 	EXP 	image: autoDraw = False
+166.4078 	EXP 	text: autoDraw = False
+166.4078 	EXP 	image: image = 'images/faces/male/John_Legend.jpg'
+166.4078 	EXP 	text: text = '+'
+166.4078 	EXP 	image: autoDraw = True
+166.6380 	EXP 	text: autoDraw = True
+166.7034 	EXP 	image: autoDraw = False
+167.1273 	DATA 	joystick_0_button: 2
+167.7135 	EXP 	text: autoDraw = False
+167.7700 	EXP 	New trial (rep=0, index=127): <Trial 127 (127 in rep 0) data={'name': 'images/faces/female/Cecily_Strong.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 127, 'thisTrialN': 127, 'thisRepN': 0}>
+167.8721 	EXP 	image: autoDraw = False
+167.8721 	EXP 	text: autoDraw = False
+167.8721 	EXP 	image: image = 'images/faces/female/Cecily_Strong.jpg'
+167.8721 	EXP 	text: text = '+'
+167.8721 	EXP 	image: autoDraw = True
+168.0681 	EXP 	text: autoDraw = True
+168.1721 	EXP 	image: autoDraw = False
+169.1699 	EXP 	text: autoDraw = False
+169.2732 	EXP 	New trial (rep=0, index=128): <Trial 128 (128 in rep 0) data={'name': 'images/faces/male/Michael_Che.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 128, 'thisTrialN': 128, 'thisRepN': 0}>
+169.3443 	EXP 	image: autoDraw = False
+169.3443 	EXP 	text: autoDraw = False
+169.3443 	EXP 	image: image = 'images/faces/male/Michael_Che.jpg'
+169.3443 	EXP 	text: text = '+'
+169.3443 	EXP 	image: autoDraw = True
+169.5707 	EXP 	text: autoDraw = True
+169.6378 	EXP 	image: autoDraw = False
+170.5996 	EXP 	text: autoDraw = False
+170.6679 	EXP 	New trial (rep=0, index=129): <Trial 129 (129 in rep 0) data={'name': 'images/faces/female/Heidi_Klum.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 129, 'thisTrialN': 129, 'thisRepN': 0}>
+170.7355 	EXP 	image: autoDraw = False
+170.7355 	EXP 	text: autoDraw = False
+170.7355 	EXP 	image: image = 'images/faces/female/Heidi_Klum.jpg'
+170.7355 	EXP 	text: text = '+'
+170.7355 	EXP 	image: autoDraw = True
+170.9627 	EXP 	text: autoDraw = True
+171.0383 	EXP 	image: autoDraw = False
+171.7976 	EXP 	text: autoDraw = False
+171.8572 	EXP 	New trial (rep=0, index=130): <Trial 130 (130 in rep 0) data={'name': 'images/objects/AALARMSY6.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 130, 'thisTrialN': 130, 'thisRepN': 0}>
+171.8806 	EXP 	image: autoDraw = False
+171.8806 	EXP 	text: autoDraw = False
+171.8806 	EXP 	image: image = 'images/objects/AALARMSY6.jpg'
+171.8806 	EXP 	text: text = '+'
+171.8806 	EXP 	image: autoDraw = True
+172.1585 	EXP 	text: autoDraw = True
+172.1830 	EXP 	image: autoDraw = False
+172.4119 	DATA 	joystick_0_button: 2
+173.1973 	EXP 	text: autoDraw = False
+173.2097 	EXP 	New trial (rep=0, index=131): <Trial 131 (131 in rep 0) data={'name': 'images/objects/8027086.thl.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 131, 'thisTrialN': 131, 'thisRepN': 0}>
+173.2258 	EXP 	image: autoDraw = False
+173.2258 	EXP 	text: autoDraw = False
+173.2258 	EXP 	image: image = 'images/objects/8027086.thl.jpg'
+173.2258 	EXP 	text: text = '+'
+173.2258 	EXP 	image: autoDraw = True
+173.5112 	EXP 	text: autoDraw = True
+173.5226 	EXP 	image: autoDraw = False
+174.3084 	EXP 	text: autoDraw = False
+174.3203 	EXP 	New trial (rep=0, index=132): <Trial 132 (132 in rep 0) data={'name': 'images/faces/male/Dr_Phil.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 132, 'thisTrialN': 132, 'thisRepN': 0}>
+174.4743 	EXP 	image: autoDraw = False
+174.4743 	EXP 	text: autoDraw = False
+174.4743 	EXP 	image: image = 'images/faces/male/Dr_Phil.jpg'
+174.4743 	EXP 	text: text = '+'
+174.4743 	EXP 	image: autoDraw = True
+174.6137 	EXP 	text: autoDraw = True
+174.7751 	EXP 	image: autoDraw = False
+175.7839 	EXP 	text: autoDraw = False
+175.9314 	EXP 	New trial (rep=0, index=133): <Trial 133 (133 in rep 0) data={'name': 'images/objects/26468374.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 133, 'thisTrialN': 133, 'thisRepN': 0}>
+175.9629 	EXP 	image: autoDraw = False
+175.9629 	EXP 	text: autoDraw = False
+175.9629 	EXP 	image: image = 'images/objects/26468374.thl.jpg'
+175.9629 	EXP 	text: text = '+'
+175.9629 	EXP 	image: autoDraw = True
+176.2340 	EXP 	text: autoDraw = True
+176.2576 	EXP 	image: autoDraw = False
+177.4416 	EXP 	text: autoDraw = False
+177.4534 	EXP 	New trial (rep=0, index=134): <Trial 134 (134 in rep 0) data={'name': 'images/objects/8077486.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 134, 'thisTrialN': 134, 'thisRepN': 0}>
+177.4696 	EXP 	image: autoDraw = False
+177.4696 	EXP 	text: autoDraw = False
+177.4696 	EXP 	image: image = 'images/objects/8077486.thl.jpg'
+177.4696 	EXP 	text: text = '+'
+177.4696 	EXP 	image: autoDraw = True
+177.7476 	EXP 	text: autoDraw = True
+177.7717 	EXP 	image: autoDraw = False
+178.7146 	EXP 	text: autoDraw = False
+178.7264 	EXP 	New trial (rep=0, index=135): <Trial 135 (135 in rep 0) data={'name': 'images/objects/ACOWBOYH3.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 135, 'thisTrialN': 135, 'thisRepN': 0}>
+178.7407 	EXP 	image: autoDraw = False
+178.7407 	EXP 	text: autoDraw = False
+178.7407 	EXP 	image: image = 'images/objects/ACOWBOYH3.jpg'
+178.7407 	EXP 	text: text = '+'
+178.7407 	EXP 	image: autoDraw = True
+179.0233 	EXP 	text: autoDraw = True
+179.0356 	EXP 	image: autoDraw = False
+180.1389 	EXP 	text: autoDraw = False
+180.1397 	EXP 	New trial (rep=0, index=136): <Trial 136 (136 in rep 0) data={'name': 'images/objects/babyseatback.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 136, 'thisTrialN': 136, 'thisRepN': 0}>
+180.1586 	EXP 	image: autoDraw = False
+180.1586 	EXP 	text: autoDraw = False
+180.1586 	EXP 	image: image = 'images/objects/babyseatback.jpg'
+180.1586 	EXP 	text: text = '+'
+180.1586 	EXP 	image: autoDraw = True
+180.4457 	EXP 	text: autoDraw = True
+180.4585 	EXP 	image: autoDraw = False
+181.5685 	EXP 	text: autoDraw = False
+181.5688 	EXP 	New trial (rep=0, index=137): <Trial 137 (137 in rep 0) data={'name': 'images/faces/male/Prince_William.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 137, 'thisTrialN': 137, 'thisRepN': 0}>
+181.7193 	EXP 	image: autoDraw = False
+181.7193 	EXP 	text: autoDraw = False
+181.7193 	EXP 	image: image = 'images/faces/male/Prince_William.jpg'
+181.7193 	EXP 	text: text = '+'
+181.7193 	EXP 	image: autoDraw = True
+181.8611 	EXP 	text: autoDraw = True
+182.0124 	EXP 	image: autoDraw = False
+183.0309 	EXP 	text: autoDraw = False
+183.1799 	EXP 	New trial (rep=0, index=138): <Trial 138 (138 in rep 0) data={'name': 'images/faces/female/Candy_Spelling.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 138, 'thisTrialN': 138, 'thisRepN': 0}>
+183.2222 	EXP 	image: autoDraw = False
+183.2222 	EXP 	text: autoDraw = False
+183.2222 	EXP 	image: image = 'images/faces/female/Candy_Spelling.jpg'
+183.2222 	EXP 	text: text = '+'
+183.2222 	EXP 	image: autoDraw = True
+183.4807 	EXP 	text: autoDraw = True
+183.5281 	EXP 	image: autoDraw = False
+184.5476 	EXP 	text: autoDraw = False
+184.5822 	EXP 	New trial (rep=0, index=139): <Trial 139 (139 in rep 0) data={'name': 'images/objects/swingset.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 139, 'thisTrialN': 139, 'thisRepN': 0}>
+184.6005 	EXP 	image: autoDraw = False
+184.6005 	EXP 	text: autoDraw = False
+184.6005 	EXP 	image: image = 'images/objects/swingset.jpg'
+184.6005 	EXP 	text: text = '+'
+184.6005 	EXP 	image: autoDraw = True
+184.8835 	EXP 	text: autoDraw = True
+184.8950 	EXP 	image: autoDraw = False
+185.8222 	EXP 	text: autoDraw = False
+185.8226 	EXP 	New trial (rep=0, index=140): <Trial 140 (140 in rep 0) data={'name': 'images/objects/Atoyball.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 140, 'thisTrialN': 140, 'thisRepN': 0}>
+185.8385 	EXP 	image: autoDraw = False
+185.8385 	EXP 	text: autoDraw = False
+185.8385 	EXP 	image: image = 'images/objects/Atoyball.jpg'
+185.8385 	EXP 	text: text = '+'
+185.8385 	EXP 	image: autoDraw = True
+186.1224 	EXP 	text: autoDraw = True
+186.1337 	EXP 	image: autoDraw = False
+186.5407 	DATA 	joystick_0_button: 2
+186.9017 	EXP 	text: autoDraw = False
+186.9021 	EXP 	New trial (rep=0, index=141): <Trial 141 (141 in rep 0) data={'name': 'images/faces/female/Meghan_Rapinoe.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 141, 'thisTrialN': 141, 'thisRepN': 0}>
+186.9293 	EXP 	image: autoDraw = False
+186.9293 	EXP 	text: autoDraw = False
+186.9293 	EXP 	image: image = 'images/faces/female/Meghan_Rapinoe.jpg'
+186.9293 	EXP 	text: text = '+'
+186.9293 	EXP 	image: autoDraw = True
+187.2032 	EXP 	text: autoDraw = True
+187.2276 	EXP 	image: autoDraw = False
+187.5910 	DATA 	joystick_0_button: 2
+188.2782 	EXP 	text: autoDraw = False
+188.2898 	EXP 	New trial (rep=0, index=142): <Trial 142 (142 in rep 0) data={'name': 'images/faces/female/Ellen_DeGeneres.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 142, 'thisTrialN': 142, 'thisRepN': 0}>
+188.3547 	EXP 	image: autoDraw = False
+188.3547 	EXP 	text: autoDraw = False
+188.3547 	EXP 	image: image = 'images/faces/female/Ellen_DeGeneres.jpg'
+188.3547 	EXP 	text: text = '+'
+188.3547 	EXP 	image: autoDraw = True
+188.5843 	EXP 	text: autoDraw = True
+188.6505 	EXP 	image: autoDraw = False
+189.4754 	EXP 	text: autoDraw = False
+189.5388 	EXP 	New trial (rep=0, index=143): <Trial 143 (143 in rep 0) data={'name': 'images/faces/male/Tom_Hardy.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 143, 'thisTrialN': 143, 'thisRepN': 0}>
+189.5705 	EXP 	image: autoDraw = False
+189.5705 	EXP 	text: autoDraw = False
+189.5705 	EXP 	image: image = 'images/faces/male/Tom_Hardy.jpg'
+189.5705 	EXP 	text: text = '+'
+189.5705 	EXP 	image: autoDraw = True
+189.8367 	EXP 	text: autoDraw = True
+189.8727 	EXP 	image: autoDraw = False
+190.5952 	EXP 	text: autoDraw = False
+190.6193 	EXP 	New trial (rep=0, index=144): <Trial 144 (144 in rep 0) data={'name': 'images/faces/male/Tucker_Carlson.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 144, 'thisTrialN': 144, 'thisRepN': 0}>
+190.6455 	EXP 	image: autoDraw = False
+190.6455 	EXP 	text: autoDraw = False
+190.6455 	EXP 	image: image = 'images/faces/male/Tucker_Carlson.jpg'
+190.6455 	EXP 	text: text = '+'
+190.6455 	EXP 	image: autoDraw = True
+190.9205 	EXP 	text: autoDraw = True
+190.9447 	EXP 	image: autoDraw = False
+191.7994 	EXP 	text: autoDraw = False
+191.8115 	EXP 	New trial (rep=0, index=145): <Trial 145 (145 in rep 0) data={'name': 'images/faces/female/Simone_Biles.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 145, 'thisTrialN': 145, 'thisRepN': 0}>
+191.8998 	EXP 	image: autoDraw = False
+191.8998 	EXP 	text: autoDraw = False
+191.8998 	EXP 	image: image = 'images/faces/female/Simone_Biles.jpg'
+191.8998 	EXP 	text: text = '+'
+191.8998 	EXP 	image: autoDraw = True
+192.1030 	EXP 	text: autoDraw = True
+192.1950 	EXP 	image: autoDraw = False
+193.0510 	EXP 	text: autoDraw = False
+193.1329 	EXP 	New trial (rep=0, index=146): <Trial 146 (146 in rep 0) data={'name': 'images/objects/23065398.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 146, 'thisTrialN': 146, 'thisRepN': 0}>
+193.1607 	EXP 	image: autoDraw = False
+193.1607 	EXP 	text: autoDraw = False
+193.1607 	EXP 	image: image = 'images/objects/23065398.thl.jpg'
+193.1607 	EXP 	text: text = '+'
+193.1607 	EXP 	image: autoDraw = True
+193.4358 	EXP 	text: autoDraw = True
+193.4595 	EXP 	image: autoDraw = False
+194.2879 	EXP 	text: autoDraw = False
+194.3006 	EXP 	New trial (rep=0, index=147): <Trial 147 (147 in rep 0) data={'name': 'images/faces/female/Beyonce.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 147, 'thisTrialN': 147, 'thisRepN': 0}>
+194.3588 	EXP 	image: autoDraw = False
+194.3588 	EXP 	text: autoDraw = False
+194.3588 	EXP 	image: image = 'images/faces/female/Beyonce.jpg'
+194.3588 	EXP 	text: text = '+'
+194.3588 	EXP 	image: autoDraw = True
+194.5983 	EXP 	text: autoDraw = True
+194.6584 	EXP 	image: autoDraw = False
+195.5902 	EXP 	text: autoDraw = False
+195.6473 	EXP 	New trial (rep=0, index=148): <Trial 148 (148 in rep 0) data={'name': 'images/objects/23041782.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 148, 'thisTrialN': 148, 'thisRepN': 0}>
+195.6678 	EXP 	image: autoDraw = False
+195.6678 	EXP 	text: autoDraw = False
+195.6678 	EXP 	image: image = 'images/objects/23041782.thl.jpg'
+195.6678 	EXP 	text: text = '+'
+195.6678 	EXP 	image: autoDraw = True
+195.9473 	EXP 	text: autoDraw = True
+195.9714 	EXP 	image: autoDraw = False
+197.1094 	EXP 	text: autoDraw = False
+197.1223 	EXP 	New trial (rep=0, index=149): <Trial 149 (149 in rep 0) data={'name': 'images/faces/male/Tom_Brady.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 149, 'thisTrialN': 149, 'thisRepN': 0}>
+197.1490 	EXP 	image: autoDraw = False
+197.1490 	EXP 	text: autoDraw = False
+197.1490 	EXP 	image: image = 'images/faces/male/Tom_Brady.jpg'
+197.1490 	EXP 	text: text = '+'
+197.1490 	EXP 	image: autoDraw = True
+197.4277 	EXP 	text: autoDraw = True
+197.4519 	EXP 	image: autoDraw = False
+198.2008 	EXP 	text: autoDraw = False
+198.2130 	EXP 	New trial (rep=0, index=150): <Trial 150 (150 in rep 0) data={'name': 'images/objects/Abowl74.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 150, 'thisTrialN': 150, 'thisRepN': 0}>
+198.2334 	EXP 	image: autoDraw = False
+198.2334 	EXP 	text: autoDraw = False
+198.2334 	EXP 	image: image = 'images/objects/Abowl74.jpg'
+198.2334 	EXP 	text: text = '+'
+198.2334 	EXP 	image: autoDraw = True
+198.5110 	EXP 	text: autoDraw = True
+198.5349 	EXP 	image: autoDraw = False
+199.6938 	EXP 	text: autoDraw = False
+199.7051 	EXP 	New trial (rep=0, index=151): <Trial 151 (151 in rep 0) data={'name': 'images/objects/Aoilcan11.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 151, 'thisTrialN': 151, 'thisRepN': 0}>
+199.7212 	EXP 	image: autoDraw = False
+199.7212 	EXP 	text: autoDraw = False
+199.7212 	EXP 	image: image = 'images/objects/Aoilcan11.jpg'
+199.7212 	EXP 	text: text = '+'
+199.7212 	EXP 	image: autoDraw = True
+199.9998 	EXP 	text: autoDraw = True
+200.0241 	EXP 	image: autoDraw = False
+201.2186 	EXP 	text: autoDraw = False
+201.2304 	EXP 	New trial (rep=0, index=152): <Trial 152 (152 in rep 0) data={'name': 'images/faces/female/Nikki_De_Jager.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 152, 'thisTrialN': 152, 'thisRepN': 0}>
+201.2477 	EXP 	image: autoDraw = False
+201.2477 	EXP 	text: autoDraw = False
+201.2477 	EXP 	image: image = 'images/faces/female/Nikki_De_Jager.jpg'
+201.2477 	EXP 	text: text = '+'
+201.2477 	EXP 	image: autoDraw = True
+201.5303 	EXP 	text: autoDraw = True
+201.5387 	EXP 	image: autoDraw = False
+202.4473 	EXP 	text: autoDraw = False
+202.4477 	EXP 	New trial (rep=0, index=153): <Trial 153 (153 in rep 0) data={'name': 'images/faces/female/Rachel_McAdams.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 153, 'thisTrialN': 153, 'thisRepN': 0}>
+202.4759 	EXP 	image: autoDraw = False
+202.4759 	EXP 	text: autoDraw = False
+202.4759 	EXP 	image: image = 'images/faces/female/Rachel_McAdams.jpg'
+202.4759 	EXP 	text: text = '+'
+202.4759 	EXP 	image: autoDraw = True
+202.7478 	EXP 	text: autoDraw = True
+202.7697 	EXP 	image: autoDraw = False
+203.7260 	EXP 	text: autoDraw = False
+203.7461 	EXP 	New trial (rep=0, index=154): <Trial 154 (154 in rep 0) data={'name': 'images/objects/23028486.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 154, 'thisTrialN': 154, 'thisRepN': 0}>
+203.7658 	EXP 	image: autoDraw = False
+203.7658 	EXP 	text: autoDraw = False
+203.7658 	EXP 	image: image = 'images/objects/23028486.thl.jpg'
+203.7658 	EXP 	text: text = '+'
+203.7658 	EXP 	image: autoDraw = True
+204.0429 	EXP 	text: autoDraw = True
+204.0671 	EXP 	image: autoDraw = False
+205.0921 	EXP 	text: autoDraw = False
+205.1045 	EXP 	New trial (rep=0, index=155): <Trial 155 (155 in rep 0) data={'name': 'images/objects/26432217.thl.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 155, 'thisTrialN': 155, 'thisRepN': 0}>
+205.1192 	EXP 	image: autoDraw = False
+205.1192 	EXP 	text: autoDraw = False
+205.1192 	EXP 	image: image = 'images/objects/26432217.thl.jpg'
+205.1192 	EXP 	text: text = '+'
+205.1192 	EXP 	image: autoDraw = True
+205.4054 	EXP 	text: autoDraw = True
+205.4183 	EXP 	image: autoDraw = False
+205.7434 	DATA 	joystick_0_button: 2
+206.3865 	EXP 	text: autoDraw = False
+206.3979 	EXP 	New trial (rep=0, index=156): <Trial 156 (156 in rep 0) data={'name': 'images/faces/female/Carly_Rae_Jepsen.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 156, 'thisTrialN': 156, 'thisRepN': 0}>
+206.4284 	EXP 	image: autoDraw = False
+206.4284 	EXP 	text: autoDraw = False
+206.4284 	EXP 	image: image = 'images/faces/female/Carly_Rae_Jepsen.jpg'
+206.4284 	EXP 	text: text = '+'
+206.4284 	EXP 	image: autoDraw = True
+206.6968 	EXP 	text: autoDraw = True
+206.7332 	EXP 	image: autoDraw = False
+207.5492 	EXP 	text: autoDraw = False
+207.5699 	EXP 	New trial (rep=0, index=157): <Trial 157 (157 in rep 0) data={'name': 'images/faces/male/Paul_Dano.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 157, 'thisTrialN': 157, 'thisRepN': 0}>
+207.5961 	EXP 	image: autoDraw = False
+207.5961 	EXP 	text: autoDraw = False
+207.5961 	EXP 	image: image = 'images/faces/male/Paul_Dano.jpg'
+207.5961 	EXP 	text: text = '+'
+207.5961 	EXP 	image: autoDraw = True
+207.8663 	EXP 	text: autoDraw = True
+207.9030 	EXP 	image: autoDraw = False
+208.4887 	DATA 	joystick_0_button: 2
+208.6309 	EXP 	text: autoDraw = False
+208.6413 	EXP 	New trial (rep=0, index=158): <Trial 158 (158 in rep 0) data={'name': 'images/objects/26378596.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 158, 'thisTrialN': 158, 'thisRepN': 0}>
+208.6590 	EXP 	image: autoDraw = False
+208.6590 	EXP 	text: autoDraw = False
+208.6590 	EXP 	image: image = 'images/objects/26378596.thl.jpg'
+208.6590 	EXP 	text: text = '+'
+208.6590 	EXP 	image: autoDraw = True
+208.9337 	EXP 	text: autoDraw = True
+208.9578 	EXP 	image: autoDraw = False
+209.8086 	EXP 	text: autoDraw = False
+209.8211 	EXP 	New trial (rep=0, index=159): <Trial 159 (159 in rep 0) data={'name': 'images/faces/male/Leonardo_DiCaprio.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 159, 'thisTrialN': 159, 'thisRepN': 0}>
+209.8877 	EXP 	image: autoDraw = False
+209.8877 	EXP 	text: autoDraw = False
+209.8877 	EXP 	image: image = 'images/faces/male/Leonardo_DiCaprio.jpg'
+209.8877 	EXP 	text: text = '+'
+209.8877 	EXP 	image: autoDraw = True
+210.1171 	EXP 	text: autoDraw = True
+210.1829 	EXP 	image: autoDraw = False
+210.9850 	EXP 	text: autoDraw = False
+211.0439 	EXP 	New trial (rep=0, index=160): <Trial 160 (160 in rep 0) data={'name': 'images/faces/female/Michelle_Dockery.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 160, 'thisTrialN': 160, 'thisRepN': 0}>
+211.0769 	EXP 	image: autoDraw = False
+211.0769 	EXP 	text: autoDraw = False
+211.0769 	EXP 	image: image = 'images/faces/female/Michelle_Dockery.jpg'
+211.0769 	EXP 	text: text = '+'
+211.0769 	EXP 	image: autoDraw = True
+211.3484 	EXP 	text: autoDraw = True
+211.3721 	EXP 	image: autoDraw = False
+212.5406 	EXP 	text: autoDraw = False
+212.5653 	EXP 	New trial (rep=0, index=161): <Trial 161 (161 in rep 0) data={'name': 'images/objects/Amilkcrate2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 161, 'thisTrialN': 161, 'thisRepN': 0}>
+212.5857 	EXP 	image: autoDraw = False
+212.5857 	EXP 	text: autoDraw = False
+212.5857 	EXP 	image: image = 'images/objects/Amilkcrate2.jpg'
+212.5857 	EXP 	text: text = '+'
+212.5857 	EXP 	image: autoDraw = True
+212.8667 	EXP 	text: autoDraw = True
+212.8870 	EXP 	image: autoDraw = False
+213.9553 	EXP 	text: autoDraw = False
+213.9675 	EXP 	New trial (rep=0, index=162): <Trial 162 (162 in rep 0) data={'name': 'images/objects/26425322.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 162, 'thisTrialN': 162, 'thisRepN': 0}>
+213.9836 	EXP 	image: autoDraw = False
+213.9836 	EXP 	text: autoDraw = False
+213.9836 	EXP 	image: image = 'images/objects/26425322.thl.jpg'
+213.9836 	EXP 	text: text = '+'
+213.9836 	EXP 	image: autoDraw = True
+214.2664 	EXP 	text: autoDraw = True
+214.2792 	EXP 	image: autoDraw = False
+215.4624 	EXP 	text: autoDraw = False
+215.4739 	EXP 	New trial (rep=0, index=163): <Trial 163 (163 in rep 0) data={'name': 'images/faces/male/John_Grisham.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 163, 'thisTrialN': 163, 'thisRepN': 0}>
+215.5154 	EXP 	image: autoDraw = False
+215.5154 	EXP 	text: autoDraw = False
+215.5154 	EXP 	image: image = 'images/faces/male/John_Grisham.jpg'
+215.5154 	EXP 	text: text = '+'
+215.5154 	EXP 	image: autoDraw = True
+215.7697 	EXP 	text: autoDraw = True
+215.8083 	EXP 	image: autoDraw = False
+216.5533 	EXP 	text: autoDraw = False
+216.5887 	EXP 	New trial (rep=0, index=164): <Trial 164 (164 in rep 0) data={'name': 'images/objects/ABROCHETT.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 164, 'thisTrialN': 164, 'thisRepN': 0}>
+216.6082 	EXP 	image: autoDraw = False
+216.6082 	EXP 	text: autoDraw = False
+216.6082 	EXP 	image: image = 'images/objects/ABROCHETT.jpg'
+216.6082 	EXP 	text: text = '+'
+216.6082 	EXP 	image: autoDraw = True
+216.8842 	EXP 	text: autoDraw = True
+216.9088 	EXP 	image: autoDraw = False
+217.8040 	EXP 	text: autoDraw = False
+217.8279 	EXP 	New trial (rep=0, index=165): <Trial 165 (165 in rep 0) data={'name': 'images/faces/female/Julie_Sarinana.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 165, 'thisTrialN': 165, 'thisRepN': 0}>
+217.8583 	EXP 	image: autoDraw = False
+217.8583 	EXP 	text: autoDraw = False
+217.8583 	EXP 	image: image = 'images/faces/female/Julie_Sarinana.jpg'
+217.8583 	EXP 	text: text = '+'
+217.8583 	EXP 	image: autoDraw = True
+218.1279 	EXP 	text: autoDraw = True
+218.1620 	EXP 	image: autoDraw = False
+219.1879 	EXP 	text: autoDraw = False
+219.1996 	EXP 	New trial (rep=0, index=166): <Trial 166 (166 in rep 0) data={'name': 'images/objects/26437080.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 166, 'thisTrialN': 166, 'thisRepN': 0}>
+219.2172 	EXP 	image: autoDraw = False
+219.2172 	EXP 	text: autoDraw = False
+219.2172 	EXP 	image: image = 'images/objects/26437080.thl.jpg'
+219.2172 	EXP 	text: text = '+'
+219.2172 	EXP 	image: autoDraw = True
+219.4962 	EXP 	text: autoDraw = True
+219.5194 	EXP 	image: autoDraw = False
+220.3712 	EXP 	text: autoDraw = False
+220.3842 	EXP 	New trial (rep=0, index=167): <Trial 167 (167 in rep 0) data={'name': 'images/objects/heartchocolat.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 167, 'thisTrialN': 167, 'thisRepN': 0}>
+220.4018 	EXP 	image: autoDraw = False
+220.4018 	EXP 	text: autoDraw = False
+220.4018 	EXP 	image: image = 'images/objects/heartchocolat.jpg'
+220.4018 	EXP 	text: text = '+'
+220.4018 	EXP 	image: autoDraw = True
+220.6835 	EXP 	text: autoDraw = True
+220.7070 	EXP 	image: autoDraw = False
+221.8774 	EXP 	text: autoDraw = False
+221.8777 	EXP 	New trial (rep=0, index=168): <Trial 168 (168 in rep 0) data={'name': 'images/objects/heartchocolat.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 168, 'thisTrialN': 168, 'thisRepN': 0}>
+221.8941 	EXP 	image: autoDraw = False
+221.8941 	EXP 	text: autoDraw = False
+221.8941 	EXP 	image: image = 'images/objects/heartchocolat.jpg'
+221.8941 	EXP 	text: text = '+'
+221.8941 	EXP 	image: autoDraw = True
+222.1672 	DATA 	joystick_0_button: 2
+222.1790 	EXP 	text: autoDraw = True
+222.1904 	EXP 	image: autoDraw = False
+223.0580 	EXP 	text: autoDraw = False
+223.0583 	EXP 	New trial (rep=0, index=169): <Trial 169 (169 in rep 0) data={'name': 'images/objects/26440261.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 169, 'thisTrialN': 169, 'thisRepN': 0}>
+223.0746 	EXP 	image: autoDraw = False
+223.0746 	EXP 	text: autoDraw = False
+223.0746 	EXP 	image: image = 'images/objects/26440261.thl.jpg'
+223.0746 	EXP 	text: text = '+'
+223.0746 	EXP 	image: autoDraw = True
+223.3580 	EXP 	text: autoDraw = True
+223.3695 	EXP 	image: autoDraw = False
+224.1904 	EXP 	text: autoDraw = False
+224.1908 	EXP 	New trial (rep=0, index=170): <Trial 170 (170 in rep 0) data={'name': 'images/objects/funlamp.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 170, 'thisTrialN': 170, 'thisRepN': 0}>
+224.2078 	EXP 	image: autoDraw = False
+224.2078 	EXP 	text: autoDraw = False
+224.2078 	EXP 	image: image = 'images/objects/funlamp.jpg'
+224.2078 	EXP 	text: text = '+'
+224.2078 	EXP 	image: autoDraw = True
+224.4915 	EXP 	text: autoDraw = True
+224.5024 	EXP 	image: autoDraw = False
+225.5926 	EXP 	text: autoDraw = False
+225.5929 	EXP 	New trial (rep=0, index=171): <Trial 171 (171 in rep 0) data={'name': 'images/faces/male/Bryan_Cranston.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 171, 'thisTrialN': 171, 'thisRepN': 0}>
+225.6576 	EXP 	image: autoDraw = False
+225.6576 	EXP 	text: autoDraw = False
+225.6576 	EXP 	image: image = 'images/faces/male/Bryan_Cranston.jpg'
+225.6576 	EXP 	text: text = '+'
+225.6576 	EXP 	image: autoDraw = True
+225.8939 	EXP 	text: autoDraw = True
+225.9539 	EXP 	image: autoDraw = False
+226.7083 	EXP 	text: autoDraw = False
+226.7633 	EXP 	New trial (rep=0, index=172): <Trial 172 (172 in rep 0) data={'name': 'images/faces/male/Sanjay_Gupta.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 172, 'thisTrialN': 172, 'thisRepN': 0}>
+226.7950 	EXP 	image: autoDraw = False
+226.7950 	EXP 	text: autoDraw = False
+226.7950 	EXP 	image: image = 'images/faces/male/Sanjay_Gupta.jpg'
+226.7950 	EXP 	text: text = '+'
+226.7950 	EXP 	image: autoDraw = True
+227.0710 	EXP 	text: autoDraw = True
+227.0946 	EXP 	image: autoDraw = False
+227.9455 	EXP 	text: autoDraw = False
+227.9575 	EXP 	New trial (rep=0, index=173): <Trial 173 (173 in rep 0) data={'name': 'images/faces/female/Hillary_Duff.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 173, 'thisTrialN': 173, 'thisRepN': 0}>
+227.9813 	EXP 	image: autoDraw = False
+227.9813 	EXP 	text: autoDraw = False
+227.9813 	EXP 	image: image = 'images/faces/female/Hillary_Duff.jpg'
+227.9813 	EXP 	text: text = '+'
+227.9813 	EXP 	image: autoDraw = True
+228.2557 	EXP 	text: autoDraw = True
+228.2787 	EXP 	image: autoDraw = False
+228.8275 	DATA 	joystick_0_button: 2
+229.3204 	EXP 	text: autoDraw = False
+229.3421 	EXP 	New trial (rep=0, index=174): <Trial 174 (174 in rep 0) data={'name': 'images/objects/DSCN3767-sm.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 174, 'thisTrialN': 174, 'thisRepN': 0}>
+229.3601 	EXP 	image: autoDraw = False
+229.3601 	EXP 	text: autoDraw = False
+229.3601 	EXP 	image: image = 'images/objects/DSCN3767-sm.jpg'
+229.3601 	EXP 	text: text = '+'
+229.3601 	EXP 	image: autoDraw = True
+229.6456 	EXP 	text: autoDraw = True
+229.6569 	EXP 	image: autoDraw = False
+230.8867 	EXP 	text: autoDraw = False
+230.8870 	EXP 	New trial (rep=0, index=175): <Trial 175 (175 in rep 0) data={'name': 'images/objects/tricycle.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 175, 'thisTrialN': 175, 'thisRepN': 0}>
+230.9041 	EXP 	image: autoDraw = False
+230.9041 	EXP 	text: autoDraw = False
+230.9041 	EXP 	image: image = 'images/objects/tricycle.jpg'
+230.9041 	EXP 	text: text = '+'
+230.9041 	EXP 	image: autoDraw = True
+231.1917 	EXP 	text: autoDraw = True
+231.2027 	EXP 	image: autoDraw = False
+232.2516 	EXP 	text: autoDraw = False
+232.2519 	EXP 	New trial (rep=0, index=176): <Trial 176 (176 in rep 0) data={'name': 'images/faces/female/Hillary_Duff.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 176, 'thisTrialN': 176, 'thisRepN': 0}>
+232.2814 	EXP 	image: autoDraw = False
+232.2814 	EXP 	text: autoDraw = False
+232.2814 	EXP 	image: image = 'images/faces/female/Hillary_Duff.jpg'
+232.2814 	EXP 	text: text = '+'
+232.2814 	EXP 	image: autoDraw = True
+232.5505 	EXP 	text: autoDraw = True
+232.5758 	EXP 	image: autoDraw = False
+232.8256 	DATA 	joystick_0_button: 2
+233.4175 	EXP 	text: autoDraw = False
+233.4409 	EXP 	New trial (rep=0, index=177): <Trial 177 (177 in rep 0) data={'name': 'images/objects/22856784.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 177, 'thisTrialN': 177, 'thisRepN': 0}>
+233.4596 	EXP 	image: autoDraw = False
+233.4596 	EXP 	text: autoDraw = False
+233.4596 	EXP 	image: image = 'images/objects/22856784.thl.jpg'
+233.4596 	EXP 	text: text = '+'
+233.4596 	EXP 	image: autoDraw = True
+233.7436 	EXP 	text: autoDraw = True
+233.7559 	EXP 	image: autoDraw = False
+234.5087 	EXP 	text: autoDraw = False
+234.5090 	EXP 	New trial (rep=0, index=178): <Trial 178 (178 in rep 0) data={'name': 'images/faces/male/Lionel_Messi.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 178, 'thisTrialN': 178, 'thisRepN': 0}>
+234.5451 	EXP 	image: autoDraw = False
+234.5451 	EXP 	text: autoDraw = False
+234.5451 	EXP 	image: image = 'images/faces/male/Lionel_Messi.jpg'
+234.5451 	EXP 	text: text = '+'
+234.5451 	EXP 	image: autoDraw = True
+234.8058 	EXP 	text: autoDraw = True
+234.8393 	EXP 	image: autoDraw = False
+235.7710 	EXP 	text: autoDraw = False
+235.7951 	EXP 	New trial (rep=0, index=179): <Trial 179 (179 in rep 0) data={'name': 'images/faces/female/Mary_Barra.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 179, 'thisTrialN': 179, 'thisRepN': 0}>
+235.8903 	EXP 	image: autoDraw = False
+235.8903 	EXP 	text: autoDraw = False
+235.8903 	EXP 	image: image = 'images/faces/female/Mary_Barra.jpg'
+235.8903 	EXP 	text: text = '+'
+235.8903 	EXP 	image: autoDraw = True
+236.0952 	EXP 	text: autoDraw = True
+236.1895 	EXP 	image: autoDraw = False
+237.3160 	EXP 	text: autoDraw = False
+237.4066 	EXP 	New trial (rep=0, index=180): <Trial 180 (180 in rep 0) data={'name': 'images/faces/male/Max_Verstappen.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 180, 'thisTrialN': 180, 'thisRepN': 0}>
+237.4401 	EXP 	image: autoDraw = False
+237.4401 	EXP 	text: autoDraw = False
+237.4401 	EXP 	image: image = 'images/faces/male/Max_Verstappen.jpg'
+237.4401 	EXP 	text: text = '+'
+237.4401 	EXP 	image: autoDraw = True
+237.7052 	EXP 	text: autoDraw = True
+237.7410 	EXP 	image: autoDraw = False
+238.7842 	EXP 	text: autoDraw = False
+238.8175 	EXP 	New trial (rep=0, index=181): <Trial 181 (181 in rep 0) data={'name': 'images/objects/8245419.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 181, 'thisTrialN': 181, 'thisRepN': 0}>
+238.8356 	EXP 	image: autoDraw = False
+238.8356 	EXP 	text: autoDraw = False
+238.8356 	EXP 	image: image = 'images/objects/8245419.thl.jpg'
+238.8356 	EXP 	text: text = '+'
+238.8356 	EXP 	image: autoDraw = True
+239.1140 	EXP 	text: autoDraw = True
+239.1373 	EXP 	image: autoDraw = False
+240.1536 	EXP 	text: autoDraw = False
+240.1650 	EXP 	New trial (rep=0, index=182): <Trial 182 (182 in rep 0) data={'name': 'images/faces/female/Margaret_Atwood.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 182, 'thisTrialN': 182, 'thisRepN': 0}>
+240.1938 	EXP 	image: autoDraw = False
+240.1938 	EXP 	text: autoDraw = False
+240.1938 	EXP 	image: image = 'images/faces/female/Margaret_Atwood.jpg'
+240.1938 	EXP 	text: text = '+'
+240.1938 	EXP 	image: autoDraw = True
+240.4646 	EXP 	text: autoDraw = True
+240.4896 	EXP 	image: autoDraw = False
+241.2374 	EXP 	text: autoDraw = False
+241.2493 	EXP 	New trial (rep=0, index=183): <Trial 183 (183 in rep 0) data={'name': 'images/faces/female/Nora_Roberts.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 183, 'thisTrialN': 183, 'thisRepN': 0}>
+241.2718 	EXP 	image: autoDraw = False
+241.2718 	EXP 	text: autoDraw = False
+241.2718 	EXP 	image: image = 'images/faces/female/Nora_Roberts.jpg'
+241.2718 	EXP 	text: text = '+'
+241.2718 	EXP 	image: autoDraw = True
+241.5500 	EXP 	text: autoDraw = True
+241.5731 	EXP 	image: autoDraw = False
+242.7580 	EXP 	text: autoDraw = False
+242.7705 	EXP 	New trial (rep=0, index=184): <Trial 184 (184 in rep 0) data={'name': 'images/objects/22925624.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 184, 'thisTrialN': 184, 'thisRepN': 0}>
+242.7867 	EXP 	image: autoDraw = False
+242.7867 	EXP 	text: autoDraw = False
+242.7867 	EXP 	image: image = 'images/objects/22925624.thl.jpg'
+242.7867 	EXP 	text: text = '+'
+242.7867 	EXP 	image: autoDraw = True
+243.0722 	EXP 	text: autoDraw = True
+243.0827 	EXP 	image: autoDraw = False
+243.8834 	EXP 	text: autoDraw = False
+243.8948 	EXP 	New trial (rep=0, index=185): <Trial 185 (185 in rep 0) data={'name': 'images/objects/AANTHAT2.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 185, 'thisTrialN': 185, 'thisRepN': 0}>
+243.9115 	EXP 	image: autoDraw = False
+243.9115 	EXP 	text: autoDraw = False
+243.9115 	EXP 	image: image = 'images/objects/AANTHAT2.jpg'
+243.9115 	EXP 	text: text = '+'
+243.9115 	EXP 	image: autoDraw = True
+244.1917 	EXP 	text: autoDraw = True
+244.2131 	EXP 	image: autoDraw = False
+245.3904 	EXP 	text: autoDraw = False
+245.4028 	EXP 	New trial (rep=0, index=186): <Trial 186 (186 in rep 0) data={'name': 'images/objects/ACANOL.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 186, 'thisTrialN': 186, 'thisRepN': 0}>
+245.4204 	EXP 	image: autoDraw = False
+245.4204 	EXP 	text: autoDraw = False
+245.4204 	EXP 	image: image = 'images/objects/ACANOL.jpg'
+245.4204 	EXP 	text: text = '+'
+245.4204 	EXP 	image: autoDraw = True
+245.7070 	EXP 	text: autoDraw = True
+245.7190 	EXP 	image: autoDraw = False
+246.7877 	EXP 	text: autoDraw = False
+246.7881 	EXP 	New trial (rep=0, index=187): <Trial 187 (187 in rep 0) data={'name': 'images/objects/26425322.thl.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 187, 'thisTrialN': 187, 'thisRepN': 0}>
+246.8023 	EXP 	image: autoDraw = False
+246.8023 	EXP 	text: autoDraw = False
+246.8023 	EXP 	image: image = 'images/objects/26425322.thl.jpg'
+246.8023 	EXP 	text: text = '+'
+246.8023 	EXP 	image: autoDraw = True
+247.0836 	EXP 	text: autoDraw = True
+247.1085 	EXP 	image: autoDraw = False
+247.4452 	DATA 	joystick_0_button: 2
+248.1285 	EXP 	text: autoDraw = False
+248.1399 	EXP 	New trial (rep=0, index=188): <Trial 188 (188 in rep 0) data={'name': 'images/faces/male/George_Clooney.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 188, 'thisTrialN': 188, 'thisRepN': 0}>
+248.1685 	EXP 	image: autoDraw = False
+248.1685 	EXP 	text: autoDraw = False
+248.1685 	EXP 	image: image = 'images/faces/male/George_Clooney.jpg'
+248.1685 	EXP 	text: text = '+'
+248.1685 	EXP 	image: autoDraw = True
+248.4344 	EXP 	text: autoDraw = True
+248.4702 	EXP 	image: autoDraw = False
+249.5074 	EXP 	text: autoDraw = False
+249.5294 	EXP 	New trial (rep=0, index=189): <Trial 189 (189 in rep 0) data={'name': 'images/objects/Abottleopener.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 189, 'thisTrialN': 189, 'thisRepN': 0}>
+249.5609 	EXP 	image: autoDraw = False
+249.5609 	EXP 	text: autoDraw = False
+249.5609 	EXP 	image: image = 'images/objects/Abottleopener.jpg'
+249.5609 	EXP 	text: text = '+'
+249.5609 	EXP 	image: autoDraw = True
+249.8247 	EXP 	text: autoDraw = True
+249.8594 	EXP 	image: autoDraw = False
+250.6166 	EXP 	text: autoDraw = False
+250.6390 	EXP 	New trial (rep=0, index=190): <Trial 190 (190 in rep 0) data={'name': 'images/objects/Aflower136.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 190, 'thisTrialN': 190, 'thisRepN': 0}>
+250.6549 	EXP 	image: autoDraw = False
+250.6549 	EXP 	text: autoDraw = False
+250.6549 	EXP 	image: image = 'images/objects/Aflower136.jpg'
+250.6549 	EXP 	text: text = '+'
+250.6549 	EXP 	image: autoDraw = True
+250.9389 	EXP 	text: autoDraw = True
+250.9507 	EXP 	image: autoDraw = False
+251.3564 	DATA 	joystick_0_button: 2
+251.9996 	EXP 	text: autoDraw = False
+251.9999 	EXP 	New trial (rep=0, index=191): <Trial 191 (191 in rep 0) data={'name': 'images/objects/jumpmattress.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 191, 'thisTrialN': 191, 'thisRepN': 0}>
+252.0174 	EXP 	image: autoDraw = False
+252.0174 	EXP 	text: autoDraw = False
+252.0174 	EXP 	image: image = 'images/objects/jumpmattress.jpg'
+252.0174 	EXP 	text: text = '+'
+252.0174 	EXP 	image: autoDraw = True
+252.3027 	EXP 	text: autoDraw = True
+252.3146 	EXP 	image: autoDraw = False
+252.6276 	DATA 	joystick_0_button: 2
+253.1626 	EXP 	text: autoDraw = False
+253.1630 	EXP 	New trial (rep=0, index=192): <Trial 192 (192 in rep 0) data={'name': 'images/objects/fireking-file-cabinet.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 192, 'thisTrialN': 192, 'thisRepN': 0}>
+253.1791 	EXP 	image: autoDraw = False
+253.1791 	EXP 	text: autoDraw = False
+253.1791 	EXP 	image: image = 'images/objects/fireking-file-cabinet.jpg'
+253.1791 	EXP 	text: text = '+'
+253.1791 	EXP 	image: autoDraw = True
+253.4582 	EXP 	text: autoDraw = True
+253.4825 	EXP 	image: autoDraw = False
+254.6307 	EXP 	text: autoDraw = False
+254.6431 	EXP 	New trial (rep=0, index=193): <Trial 193 (193 in rep 0) data={'name': 'images/faces/male/Spike_Lee.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 193, 'thisTrialN': 193, 'thisRepN': 0}>
+254.6734 	EXP 	image: autoDraw = False
+254.6734 	EXP 	text: autoDraw = False
+254.6734 	EXP 	image: image = 'images/faces/male/Spike_Lee.jpg'
+254.6734 	EXP 	text: text = '+'
+254.6734 	EXP 	image: autoDraw = True
+254.9490 	EXP 	text: autoDraw = True
+254.9739 	EXP 	image: autoDraw = False
+255.8814 	EXP 	text: autoDraw = False
+255.8912 	EXP 	New trial (rep=0, index=194): <Trial 194 (194 in rep 0) data={'name': 'images/faces/male/Caleb_Dressel.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 194, 'thisTrialN': 194, 'thisRepN': 0}>
+255.9461 	EXP 	image: autoDraw = False
+255.9461 	EXP 	text: autoDraw = False
+255.9461 	EXP 	image: image = 'images/faces/male/Caleb_Dressel.jpg'
+255.9461 	EXP 	text: text = '+'
+255.9461 	EXP 	image: autoDraw = True
+256.1931 	EXP 	text: autoDraw = True
+256.2423 	EXP 	image: autoDraw = False
+257.0816 	EXP 	text: autoDraw = False
+257.1239 	EXP 	New trial (rep=0, index=195): <Trial 195 (195 in rep 0) data={'name': 'images/objects/26424075.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 195, 'thisTrialN': 195, 'thisRepN': 0}>
+257.1449 	EXP 	image: autoDraw = False
+257.1449 	EXP 	text: autoDraw = False
+257.1449 	EXP 	image: image = 'images/objects/26424075.thl.jpg'
+257.1449 	EXP 	text: text = '+'
+257.1449 	EXP 	image: autoDraw = True
+257.4200 	EXP 	text: autoDraw = True
+257.4432 	EXP 	image: autoDraw = False
+258.6261 	EXP 	text: autoDraw = False
+258.6381 	EXP 	New trial (rep=0, index=196): <Trial 196 (196 in rep 0) data={'name': 'images/objects/saltpeppershakerjpg.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 196, 'thisTrialN': 196, 'thisRepN': 0}>
+258.6546 	EXP 	image: autoDraw = False
+258.6546 	EXP 	text: autoDraw = False
+258.6546 	EXP 	image: image = 'images/objects/saltpeppershakerjpg.jpg'
+258.6546 	EXP 	text: text = '+'
+258.6546 	EXP 	image: autoDraw = True
+258.9411 	EXP 	text: autoDraw = True
+258.9525 	EXP 	image: autoDraw = False
+259.7950 	EXP 	text: autoDraw = False
+259.8074 	EXP 	New trial (rep=0, index=197): <Trial 197 (197 in rep 0) data={'name': 'images/objects/Atoyfiretru11.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 197, 'thisTrialN': 197, 'thisRepN': 0}>
+259.8256 	EXP 	image: autoDraw = False
+259.8256 	EXP 	text: autoDraw = False
+259.8256 	EXP 	image: image = 'images/objects/Atoyfiretru11.jpg'
+259.8256 	EXP 	text: text = '+'
+259.8256 	EXP 	image: autoDraw = True
+260.1050 	EXP 	text: autoDraw = True
+260.1277 	EXP 	image: autoDraw = False
+260.5840 	DATA 	joystick_0_button: 2
+261.2762 	EXP 	text: autoDraw = False
+261.2766 	EXP 	New trial (rep=0, index=198): <Trial 198 (198 in rep 0) data={'name': 'images/objects/AARMCHA25.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 198, 'thisTrialN': 198, 'thisRepN': 0}>
+261.2930 	EXP 	image: autoDraw = False
+261.2930 	EXP 	text: autoDraw = False
+261.2930 	EXP 	image: image = 'images/objects/AARMCHA25.jpg'
+261.2930 	EXP 	text: text = '+'
+261.2930 	EXP 	image: autoDraw = True
+261.5764 	EXP 	text: autoDraw = True
+261.5887 	EXP 	image: autoDraw = False
+262.5234 	EXP 	text: autoDraw = False
+262.5237 	EXP 	New trial (rep=0, index=199): <Trial 199 (199 in rep 0) data={'name': 'images/faces/male/Tom_Hardy.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 199, 'thisTrialN': 199, 'thisRepN': 0}>
+262.5519 	EXP 	image: autoDraw = False
+262.5519 	EXP 	text: autoDraw = False
+262.5519 	EXP 	image: image = 'images/faces/male/Tom_Hardy.jpg'
+262.5519 	EXP 	text: text = '+'
+262.5519 	EXP 	image: autoDraw = True
+262.8270 	EXP 	text: autoDraw = True
+262.8514 	EXP 	image: autoDraw = False
+263.1371 	DATA 	joystick_0_button: 2
+263.6259 	EXP 	text: autoDraw = False
+263.6455 	EXP 	New trial (rep=0, index=200): <Trial 200 (200 in rep 0) data={'name': 'images/objects/ATOWRACK3.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 200, 'thisTrialN': 200, 'thisRepN': 0}>
+263.6735 	EXP 	image: autoDraw = False
+263.6735 	EXP 	text: autoDraw = False
+263.6735 	EXP 	image: image = 'images/objects/ATOWRACK3.jpg'
+263.6735 	EXP 	text: text = '+'
+263.6735 	EXP 	image: autoDraw = True
+263.9468 	EXP 	text: autoDraw = True
+263.9702 	EXP 	image: autoDraw = False
+264.7745 	EXP 	text: autoDraw = False
+264.8005 	EXP 	New trial (rep=0, index=201): <Trial 201 (201 in rep 0) data={'name': 'images/objects/23051010.thl.jpg', 'repeat_status': 'repeat', 'stim_type': 'object', 'thisN': 201, 'thisTrialN': 201, 'thisRepN': 0}>
+264.8135 	EXP 	image: autoDraw = False
+264.8135 	EXP 	text: autoDraw = False
+264.8135 	EXP 	image: image = 'images/objects/23051010.thl.jpg'
+264.8135 	EXP 	text: text = '+'
+264.8135 	EXP 	image: autoDraw = True
+265.1006 	EXP 	text: autoDraw = True
+265.1106 	EXP 	image: autoDraw = False
+265.4717 	DATA 	joystick_0_button: 2
+265.8521 	EXP 	text: autoDraw = False
+265.8529 	EXP 	New trial (rep=0, index=202): <Trial 202 (202 in rep 0) data={'name': 'images/objects/ACENTRIF5.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 202, 'thisTrialN': 202, 'thisRepN': 0}>
+265.8695 	EXP 	image: autoDraw = False
+265.8695 	EXP 	text: autoDraw = False
+265.8695 	EXP 	image: image = 'images/objects/ACENTRIF5.jpg'
+265.8695 	EXP 	text: text = '+'
+265.8695 	EXP 	image: autoDraw = True
+266.1497 	EXP 	text: autoDraw = True
+266.1741 	EXP 	image: autoDraw = False
+267.1088 	EXP 	text: autoDraw = False
+267.1207 	EXP 	New trial (rep=0, index=203): <Trial 203 (203 in rep 0) data={'name': 'images/objects/26387436.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 203, 'thisTrialN': 203, 'thisRepN': 0}>
+267.1341 	EXP 	image: autoDraw = False
+267.1341 	EXP 	text: autoDraw = False
+267.1341 	EXP 	image: image = 'images/objects/26387436.thl.jpg'
+267.1341 	EXP 	text: text = '+'
+267.1341 	EXP 	image: autoDraw = True
+267.4224 	EXP 	text: autoDraw = True
+267.4346 	EXP 	image: autoDraw = False
+268.2718 	EXP 	text: autoDraw = False
+268.2722 	EXP 	New trial (rep=0, index=204): <Trial 204 (204 in rep 0) data={'name': 'images/faces/male/Paul_Rudd.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 204, 'thisTrialN': 204, 'thisRepN': 0}>
+268.3281 	EXP 	image: autoDraw = False
+268.3281 	EXP 	text: autoDraw = False
+268.3281 	EXP 	image: image = 'images/faces/male/Paul_Rudd.jpg'
+268.3281 	EXP 	text: text = '+'
+268.3281 	EXP 	image: autoDraw = True
+268.5692 	EXP 	text: autoDraw = True
+268.6296 	EXP 	image: autoDraw = False
+269.5069 	EXP 	text: autoDraw = False
+269.5528 	EXP 	New trial (rep=0, index=205): <Trial 205 (205 in rep 0) data={'name': 'images/objects/26424973.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 205, 'thisTrialN': 205, 'thisRepN': 0}>
+269.5738 	EXP 	image: autoDraw = False
+269.5738 	EXP 	text: autoDraw = False
+269.5738 	EXP 	image: image = 'images/objects/26424973.thl.jpg'
+269.5738 	EXP 	text: text = '+'
+269.5738 	EXP 	image: autoDraw = True
+269.8592 	EXP 	text: autoDraw = True
+269.8712 	EXP 	image: autoDraw = False
+270.8549 	EXP 	text: autoDraw = False
+270.8552 	EXP 	New trial (rep=0, index=206): <Trial 206 (206 in rep 0) data={'name': 'images/faces/male/Donald_Glover.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 206, 'thisTrialN': 206, 'thisRepN': 0}>
+270.9003 	EXP 	image: autoDraw = False
+270.9003 	EXP 	text: autoDraw = False
+270.9003 	EXP 	image: image = 'images/faces/male/Donald_Glover.jpg'
+270.9003 	EXP 	text: text = '+'
+270.9003 	EXP 	image: autoDraw = True
+271.1510 	EXP 	text: autoDraw = True
+271.1951 	EXP 	image: autoDraw = False
+271.9090 	EXP 	text: autoDraw = False
+271.9532 	EXP 	New trial (rep=0, index=207): <Trial 207 (207 in rep 0) data={'name': 'images/faces/female/Scarlett_Johansson.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 207, 'thisTrialN': 207, 'thisRepN': 0}>
+271.9859 	EXP 	image: autoDraw = False
+271.9859 	EXP 	text: autoDraw = False
+271.9859 	EXP 	image: image = 'images/faces/female/Scarlett_Johansson.jpg'
+271.9859 	EXP 	text: text = '+'
+271.9859 	EXP 	image: autoDraw = True
+272.2548 	EXP 	text: autoDraw = True
+272.2908 	EXP 	image: autoDraw = False
+272.7170 	DATA 	joystick_0_button: 2
+273.1585 	EXP 	text: autoDraw = False
+273.1805 	EXP 	New trial (rep=0, index=208): <Trial 208 (208 in rep 0) data={'name': 'images/objects/26684634.thl.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 208, 'thisTrialN': 208, 'thisRepN': 0}>
+273.1986 	EXP 	image: autoDraw = False
+273.1986 	EXP 	text: autoDraw = False
+273.1986 	EXP 	image: image = 'images/objects/26684634.thl.jpg'
+273.1986 	EXP 	text: text = '+'
+273.1986 	EXP 	image: autoDraw = True
+273.4853 	EXP 	text: autoDraw = True
+273.4981 	EXP 	image: autoDraw = False
+274.6166 	EXP 	text: autoDraw = False
+274.6271 	EXP 	New trial (rep=0, index=209): <Trial 209 (209 in rep 0) data={'name': 'images/objects/AAIRPORTC.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 209, 'thisTrialN': 209, 'thisRepN': 0}>
+274.6398 	EXP 	image: autoDraw = False
+274.6398 	EXP 	text: autoDraw = False
+274.6398 	EXP 	image: image = 'images/objects/AAIRPORTC.jpg'
+274.6398 	EXP 	text: text = '+'
+274.6398 	EXP 	image: autoDraw = True
+274.9229 	EXP 	text: autoDraw = True
+274.9323 	EXP 	image: autoDraw = False
+275.9083 	EXP 	text: autoDraw = False
+275.9086 	EXP 	New trial (rep=0, index=210): <Trial 210 (210 in rep 0) data={'name': 'images/faces/female/Billie_Eilish.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 210, 'thisTrialN': 210, 'thisRepN': 0}>
+275.9722 	EXP 	image: autoDraw = False
+275.9722 	EXP 	text: autoDraw = False
+275.9722 	EXP 	image: image = 'images/faces/female/Billie_Eilish.jpg'
+275.9722 	EXP 	text: text = '+'
+275.9722 	EXP 	image: autoDraw = True
+276.2046 	EXP 	text: autoDraw = True
+276.2728 	EXP 	image: autoDraw = False
+276.8052 	DATA 	joystick_0_button: 2
+277.0678 	EXP 	text: autoDraw = False
+277.1176 	EXP 	New trial (rep=0, index=211): <Trial 211 (211 in rep 0) data={'name': 'images/faces/female/Jennifer_Lopez.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 211, 'thisTrialN': 211, 'thisRepN': 0}>
+277.1465 	EXP 	image: autoDraw = False
+277.1465 	EXP 	text: autoDraw = False
+277.1465 	EXP 	image: image = 'images/faces/female/Jennifer_Lopez.jpg'
+277.1465 	EXP 	text: text = '+'
+277.1465 	EXP 	image: autoDraw = True
+277.4197 	EXP 	text: autoDraw = True
+277.4448 	EXP 	image: autoDraw = False
+277.6890 	DATA 	joystick_0_button: 2
+278.1872 	EXP 	text: autoDraw = False
+278.1997 	EXP 	New trial (rep=0, index=212): <Trial 212 (212 in rep 0) data={'name': 'images/faces/female/Beyonce.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 212, 'thisTrialN': 212, 'thisRepN': 0}>
+278.2602 	EXP 	image: autoDraw = False
+278.2602 	EXP 	text: autoDraw = False
+278.2602 	EXP 	image: image = 'images/faces/female/Beyonce.jpg'
+278.2602 	EXP 	text: text = '+'
+278.2602 	EXP 	image: autoDraw = True
+278.5026 	EXP 	text: autoDraw = True
+278.5648 	EXP 	image: autoDraw = False
+278.6300 	DATA 	joystick_0_button: 2
+279.3188 	EXP 	text: autoDraw = False
+279.3637 	EXP 	New trial (rep=0, index=213): <Trial 213 (213 in rep 0) data={'name': 'images/faces/male/Mitch_McConnell.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 213, 'thisTrialN': 213, 'thisRepN': 0}>
+279.3951 	EXP 	image: autoDraw = False
+279.3951 	EXP 	text: autoDraw = False
+279.3951 	EXP 	image: image = 'images/faces/male/Mitch_McConnell.jpg'
+279.3951 	EXP 	text: text = '+'
+279.3951 	EXP 	image: autoDraw = True
+279.6682 	EXP 	text: autoDraw = True
+279.6918 	EXP 	image: autoDraw = False
+280.6648 	EXP 	text: autoDraw = False
+280.6881 	EXP 	New trial (rep=0, index=214): <Trial 214 (214 in rep 0) data={'name': 'images/faces/female/Vanessa_Hudgens.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 214, 'thisTrialN': 214, 'thisRepN': 0}>
+280.7333 	EXP 	image: autoDraw = False
+280.7333 	EXP 	text: autoDraw = False
+280.7333 	EXP 	image: image = 'images/faces/female/Vanessa_Hudgens.jpg'
+280.7333 	EXP 	text: text = '+'
+280.7333 	EXP 	image: autoDraw = True
+280.9889 	EXP 	text: autoDraw = True
+281.0354 	EXP 	image: autoDraw = False
+282.1722 	EXP 	text: autoDraw = False
+282.2083 	EXP 	New trial (rep=0, index=215): <Trial 215 (215 in rep 0) data={'name': 'images/objects/ACDRAINER.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 215, 'thisTrialN': 215, 'thisRepN': 0}>
+282.2284 	EXP 	image: autoDraw = False
+282.2284 	EXP 	text: autoDraw = False
+282.2284 	EXP 	image: image = 'images/objects/ACDRAINER.jpg'
+282.2284 	EXP 	text: text = '+'
+282.2284 	EXP 	image: autoDraw = True
+282.5117 	EXP 	text: autoDraw = True
+282.5245 	EXP 	image: autoDraw = False
+283.6858 	EXP 	text: autoDraw = False
+283.6961 	EXP 	New trial (rep=0, index=216): <Trial 216 (216 in rep 0) data={'name': 'images/faces/male/David_Schwimmer.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 216, 'thisTrialN': 216, 'thisRepN': 0}>
+283.7775 	EXP 	image: autoDraw = False
+283.7775 	EXP 	text: autoDraw = False
+283.7775 	EXP 	image: image = 'images/faces/male/David_Schwimmer.jpg'
+283.7775 	EXP 	text: text = '+'
+283.7775 	EXP 	image: autoDraw = True
+283.9940 	EXP 	text: autoDraw = True
+284.0713 	EXP 	image: autoDraw = False
+284.8080 	EXP 	text: autoDraw = False
+284.8880 	EXP 	New trial (rep=0, index=217): <Trial 217 (217 in rep 0) data={'name': 'images/faces/male/Prince_Harry.jpg', 'repeat_status': 'repeat', 'stim_type': 'face', 'thisN': 217, 'thisTrialN': 217, 'thisRepN': 0}>
+284.9673 	EXP 	image: autoDraw = False
+284.9673 	EXP 	text: autoDraw = False
+284.9673 	EXP 	image: image = 'images/faces/male/Prince_Harry.jpg'
+284.9673 	EXP 	text: text = '+'
+284.9673 	EXP 	image: autoDraw = True
+285.1867 	EXP 	text: autoDraw = True
+285.2610 	EXP 	image: autoDraw = False
+285.5336 	DATA 	joystick_0_button: 2
+286.1102 	EXP 	text: autoDraw = False
+286.1889 	EXP 	New trial (rep=0, index=218): <Trial 218 (218 in rep 0) data={'name': 'images/objects/retainertheeth.jpg', 'repeat_status': 'original', 'stim_type': 'object', 'thisN': 218, 'thisTrialN': 218, 'thisRepN': 0}>
+286.2157 	EXP 	image: autoDraw = False
+286.2157 	EXP 	text: autoDraw = False
+286.2157 	EXP 	image: image = 'images/objects/retainertheeth.jpg'
+286.2157 	EXP 	text: text = '+'
+286.2157 	EXP 	image: autoDraw = True
+286.4926 	EXP 	text: autoDraw = True
+286.5159 	EXP 	image: autoDraw = False
+287.5498 	EXP 	text: autoDraw = False
+287.5614 	EXP 	New trial (rep=0, index=219): <Trial 219 (219 in rep 0) data={'name': 'images/faces/male/Eddie_Redmayne.jpg', 'repeat_status': 'original', 'stim_type': 'face', 'thisN': 219, 'thisTrialN': 219, 'thisRepN': 0}>
+287.5893 	EXP 	image: autoDraw = False
+287.5893 	EXP 	text: autoDraw = False
+287.5893 	EXP 	image: image = 'images/faces/male/Eddie_Redmayne.jpg'
+287.5893 	EXP 	text: text = '+'
+287.5893 	EXP 	image: autoDraw = True
+287.8632 	EXP 	text: autoDraw = True
+287.8876 	EXP 	image: autoDraw = False
+288.7419 	EXP 	text: autoDraw = False
+288.7680 	EXP 	image: autoDraw = False
+288.7680 	EXP 	text: autoDraw = False
+288.7680 	EXP 	text_end: autoDraw = True
+289.3247 	DATA 	joystick_0_button: 2
+289.3355 	EXP 	text_end: autoDraw = False
+289.3356 	EXP 	N170: status = STOPPED
+289.3806 	INFO 	saved data to '/Users/ellepedaci/Desktop/Experiments/PA3/N170/data/sub-001_N170_raw.csv'
+289.3820 	INFO 	saved data to /Users/ellepedaci/Desktop/Experiments/PA3/N170/data/sub-001_N170_raw.psydat
+289.4165 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

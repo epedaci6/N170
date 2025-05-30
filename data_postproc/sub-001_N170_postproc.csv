@@ -1,0 +1,223 @@
+name,repeat_status,stim_type,button_resp.rt,button_resp.keys,correct_key,accuracy,trial_type
+,,,,,None,,NaN
+images/faces/male/Justin_Timberlake.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Tom_Hanks.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Christina_Aguilera.jpg,original,face,,,None,1.0,correct rejection
+images/objects/fullbucket.jpg,original,object,,,None,1.0,correct rejection
+images/objects/APARKBENC.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Acarnivalgame.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Carrie_Underwood.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Jamie _Foxx.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Adele.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Alice_Walker.jpg,original,face,,,None,1.0,correct rejection
+images/objects/AHEELCUPS.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Atoyslide.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Kelly_Clarkson.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26370116.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ATIMECLO3.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ASCREW24.jpg,original,object,,,None,1.0,correct rejection
+images/objects/23051010.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/driedprune.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Bryan_Moynihan.jpg,original,face,,,None,1.0,correct rejection
+images/objects/22849344.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/swingset.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Achildsplaype.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Paulo_Coelho.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26372390.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Bonnie_Wright.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Mia_Hamm.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/PSY.jpg,original,face,,,None,1.0,correct rejection
+images/objects/8027086.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/8256348.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Atennisball2.jpg,original,object,,,None,1.0,correct rejection
+images/objects/mixer.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Prince_Harry.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Abasket108.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26373735.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/23025535.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/A_flower.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Katie_Ledecky.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Kate_Middleton.jpg,original,face,0.777065832997323,2,None,0.0,false alarm
+images/faces/female/Katie_Ledecky.jpg,repeat,face,0.5790585420036223,2,2,1.0,hit
+images/faces/male/Nicholas_Sparks.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/John_Goodenough.jpg,original,face,,,None,1.0,correct rejection
+images/objects/22826832.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/8026084.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/hairbarette.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Atoyturtle.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Rick_Riordan.jpg,original,face,,,None,1.0,correct rejection
+images/objects/bagelslicer.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Paula_Hawkins.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Laverne_Cox.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Justin_Trudeau.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ferrywheeltoy.jpg,original,object,,,None,1.0,correct rejection
+images/objects/pinecone02.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ACOWBOYH3.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Kelly_Clarkson.jpg,repeat,face,0.6984757499885745,2,2,1.0,hit
+images/faces/female/Rachel_Maddow.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Dak_Prescott.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26439913.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26423905.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Veronica_Roth.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Oprah_Winfrey.jpg,original,face,,,None,1.0,correct rejection
+images/objects/AALARMSY6.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Acartofgroce3.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ATOILROL2.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/David_Guetta.jpg,original,face,,,None,1.0,correct rejection
+images/objects/hottub.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Ascarf7.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Eddie_Murphy.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Aboardgame6.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26424784.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Trevor_Noah.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26432217.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Demi_Lovato.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Lorde.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Apaintroller2.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Queen_Elizabeth.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26466344.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Tom_Hanks.jpg,repeat,face,,,2,0.0,miss
+images/faces/female/Sonya_Sotomayor.jpg,original,face,0.7525817910063779,2,None,0.0,false alarm
+images/faces/female/Margot_Robbie.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Meghan_Rapinoe.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Mary_Kate_Olsen.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ARASPBER2.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Mark_Zuckerberg.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/George_Clooney.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Andrea_Russet.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Iggy_Azalea.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Nick_Jonas.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Hillary_Clinton.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Gwen_Stefani.jpg,original,face,,,None,1.0,correct rejection
+images/objects/hurdle.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26379612.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Addison_Rae.jpg,original,face,0.6754365419910755,2,None,0.0,false alarm
+images/objects/golf-ball.JPG,original,object,,,None,1.0,correct rejection
+images/objects/ACOCONUT2.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ACUTBOAR2.jpg,original,object,,,None,1.0,correct rejection
+images/objects/driedprune.jpg,repeat,object,0.5615661250049016,2,2,1.0,hit
+images/faces/female/Alicia_Keys.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/David_Guetta.jpg,repeat,face,0.5831508749979548,2,2,1.0,hit
+images/faces/male/Benedict_Cumberbatch.jpg,original,face,,,None,1.0,correct rejection
+images/objects/clawhairclips.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Julianne_Moore.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Chevypickup.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Heatpad.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Doug_McMillon.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Connor_McGregor.jpg,original,face,,,None,1.0,correct rejection
+images/objects/22883664.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Rihanna.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Aallterrain10.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Jay_Leno.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Bethenny_Frankel.jpg,original,face,,,None,1.0,correct rejection
+images/objects/8253370.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ACURLRIB2.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Nathan_Chen.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Jim_Gaffigan.jpg,original,face,,,None,1.0,correct rejection
+images/objects/moto.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Conan_O_Brien.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ARATTLE.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Maggie_Smith.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ANWSPAPER.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Snoop_Dogg.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ABACKHOE2.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26425370.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Usher.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Atoyball.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Eminem.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Billy_Joel.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/John_Legend.jpg,original,face,0.719554541996331,2,None,0.0,false alarm
+images/faces/female/Cecily_Strong.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Michael_Che.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Heidi_Klum.jpg,original,face,,,None,1.0,correct rejection
+images/objects/AALARMSY6.jpg,repeat,object,0.5313442500046222,2,2,1.0,hit
+images/objects/8027086.thl.jpg,repeat,object,,,2,0.0,miss
+images/faces/male/Dr_Phil.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26468374.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/8077486.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ACOWBOYH3.jpg,repeat,object,,,2,0.0,miss
+images/objects/babyseatback.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Prince_William.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Candy_Spelling.jpg,original,face,,,None,1.0,correct rejection
+images/objects/swingset.jpg,repeat,object,,,2,0.0,miss
+images/objects/Atoyball.jpg,repeat,object,0.7021477920061443,2,2,1.0,hit
+images/faces/female/Meghan_Rapinoe.jpg,repeat,face,0.6617585419880925,2,2,1.0,hit
+images/faces/female/Ellen_DeGeneres.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Tom_Hardy.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Tucker_Carlson.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Simone_Biles.jpg,original,face,,,None,1.0,correct rejection
+images/objects/23065398.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Beyonce.jpg,original,face,,,None,1.0,correct rejection
+images/objects/23041782.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Tom_Brady.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Abowl74.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Aoilcan11.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Nikki_De_Jager.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Rachel_McAdams.jpg,original,face,,,None,1.0,correct rejection
+images/objects/23028486.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26432217.thl.jpg,repeat,object,0.6241432079987135,2,2,1.0,hit
+images/faces/female/Carly_Rae_Jepsen.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Paul_Dano.jpg,original,face,0.8925768750050338,2,None,0.0,false alarm
+images/objects/26378596.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Leonardo_DiCaprio.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Michelle_Dockery.jpg,original,face,,,None,1.0,correct rejection
+images/objects/Amilkcrate2.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26425322.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/John_Grisham.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ABROCHETT.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Julie_Sarinana.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26437080.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/heartchocolat.jpg,original,object,,,None,1.0,correct rejection
+images/objects/heartchocolat.jpg,repeat,object,0.2731581660045776,2,2,1.0,hit
+images/objects/26440261.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/funlamp.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Bryan_Cranston.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Sanjay_Gupta.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Hillary_Duff.jpg,original,face,0.8462272920005489,2,None,0.0,false alarm
+images/objects/DSCN3767-sm.jpg,original,object,,,None,1.0,correct rejection
+images/objects/tricycle.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Hillary_Duff.jpg,repeat,face,0.5441307919973042,2,2,1.0,hit
+images/objects/22856784.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Lionel_Messi.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Mary_Barra.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Max_Verstappen.jpg,original,face,,,None,1.0,correct rejection
+images/objects/8245419.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Margaret_Atwood.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Nora_Roberts.jpg,original,face,,,None,1.0,correct rejection
+images/objects/22925624.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/AANTHAT2.jpg,original,object,,,None,1.0,correct rejection
+images/objects/ACANOL.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26425322.thl.jpg,repeat,object,0.6428902499901596,2,2,1.0,hit
+images/faces/male/George_Clooney.jpg,repeat,face,,,2,0.0,miss
+images/objects/Abottleopener.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Aflower136.jpg,original,object,0.7015229999960866,2,None,0.0,false alarm
+images/objects/jumpmattress.jpg,original,object,0.610225915996125,2,None,0.0,false alarm
+images/objects/fireking-file-cabinet.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Spike_Lee.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Caleb_Dressel.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26424075.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/saltpeppershakerjpg.jpg,original,object,,,None,1.0,correct rejection
+images/objects/Atoyfiretru11.jpg,original,object,0.7584115829959046,2,None,0.0,false alarm
+images/objects/AARMCHA25.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Tom_Hardy.jpg,repeat,face,0.5851995830016676,2,2,1.0,hit
+images/objects/ATOWRACK3.jpg,original,object,,,None,1.0,correct rejection
+images/objects/23051010.thl.jpg,repeat,object,0.6581599160126643,2,2,1.0,hit
+images/objects/ACENTRIF5.jpg,original,object,,,None,1.0,correct rejection
+images/objects/26387436.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Paul_Rudd.jpg,original,face,,,None,1.0,correct rejection
+images/objects/26424973.thl.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Donald_Glover.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Scarlett_Johansson.jpg,original,face,0.7311026670067804,2,None,0.0,false alarm
+images/objects/26684634.thl.jpg,original,object,,,None,1.0,correct rejection
+images/objects/AAIRPORTC.jpg,original,object,,,None,1.0,correct rejection
+images/faces/female/Billie_Eilish.jpg,original,face,0.8329935830115573,2,None,0.0,false alarm
+images/faces/female/Jennifer_Lopez.jpg,original,face,0.5425011670013191,2,None,0.0,false alarm
+images/faces/female/Beyonce.jpg,repeat,face,0.3698408749914961,2,2,1.0,hit
+images/faces/male/Mitch_McConnell.jpg,original,face,,,None,1.0,correct rejection
+images/faces/female/Vanessa_Hudgens.jpg,original,face,,,None,1.0,correct rejection
+images/objects/ACDRAINER.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/David_Schwimmer.jpg,original,face,,,None,1.0,correct rejection
+images/faces/male/Prince_Harry.jpg,repeat,face,0.5662919169990346,2,2,1.0,hit
+images/objects/retainertheeth.jpg,original,object,,,None,1.0,correct rejection
+images/faces/male/Eddie_Redmayne.jpg,original,face,,,None,1.0,correct rejection
+,,,,,None,,NaN
